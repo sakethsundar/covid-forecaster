@@ -80,7 +80,7 @@ def validate_projections(df_model):
     df_model['target_end_date'] = pd.to_datetime(df_model['target_end_date']).dt.date
 
 
-def main(forecast_hub_dir, proj_date, eval_date, out_dir,
+def run_evaluation(forecast_hub_dir, proj_date, eval_date, out_dir,
         use_point=True, use_cumulative_deaths=False, print_additional_stats=False,
         merge_models=True):
     """For full description of methods, refer to:
@@ -141,8 +141,8 @@ def main(forecast_hub_dir, proj_date, eval_date, out_dir,
         }
 
     # We retrieve the latest truth data to compute actual incident deaths
-    truth_file_name = forecast_hub_dir / 'data-truth' / 'truth-Cumulative Deaths.csv'
-    df_truth_raw = pd.read_csv(truth_file_name)
+    truth_file_name = f'{forecast_hub_dir}/data-truth/truth-Cumulative Deaths.csv'
+    df_truth_raw = pd.read_csv(f'{forecast_hub_dir}/data-truth/truth-Cumulative Deaths.csv')
     df_truth_raw['date'] = pd.to_datetime(df_truth_raw['date']).dt.date
     df_truth_raw = df_truth_raw.rename(columns={'value' : 'total_deaths'})
     df_truth_raw = df_truth_raw[['date', 'location', 'total_deaths']]
