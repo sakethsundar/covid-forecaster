@@ -1,0 +1,6 @@
+,total_deaths_2020-03-29,predicted_deaths,actual_deaths,predicted_addl_deaths,actual_addl_deaths,error,perc_error
+Imperial-combined,3561,10551.0,11031,7033.0,7470.0,-437.0,-5.9%
+IHME-CurveFit,3561,7873.3,11031,4355.3,7470.0,-3114.7,-41.7%
+Baseline,3561,6022.6,11031,2504.6,7470.0,-4965.4,-66.5%
+Baseline_0.98,3561,5900.6,11031,2382.6,7470.0,-5087.4,-68.1%
+MIT_Sak,3561,25465.8,11031,21947.8,7470.0,14477.8,193.8%

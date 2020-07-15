@@ -1,0 +1,8 @@
+,total_deaths_2020-04-05,predicted_deaths,actual_deaths,predicted_addl_deaths,actual_addl_deaths,error,perc_error
+Imperial-combined,12470,24538.5,24777,12293.5,12307.0,-13.5,-0.1%
+IHME-CurveFit,12470,25059.6,24777,12814.6,12307.0,507.6,4.1%
+Baseline,12470,19725.3,24777,7480.3,12307.0,-4826.7,-39.2%
+Baseline_0.98,12470,19361.1,24777,7116.1,12307.0,-5190.9,-42.2%
+COVIDhub-baseline,12470,14788.0,24777,2543.0,12307.0,-9764.0,-79.3%
+MIT_Sak,12470,41380.0,24777,29135.0,12307.0,16828.0,136.7%
+LANL-GrowthRate,12470,,24777,,12307.0,,
