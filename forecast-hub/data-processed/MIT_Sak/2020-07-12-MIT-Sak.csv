@@ -1,0 +1,101 @@
+forecast_date,target,target_end_date,location,location_name,type,quantile,value
+2020-07-12,1 day ahead cum death,2020-07-13,US,US,point,NA,133254.87146538496
+2020-07-12,2 day ahead cum death,2020-07-14,US,US,point,NA,134232.94339871407
+2020-07-12,1 day ahead cum death,2020-07-13,01,Alabama,point,NA,1059.126458734274
+2020-07-12,2 day ahead cum death,2020-07-14,01,Alabama,point,NA,1079.5138301551342
+2020-07-12,1 day ahead cum death,2020-07-13,02,Alaska,point,NA,44.27572384476662
+2020-07-12,2 day ahead cum death,2020-07-14,02,Alaska,point,NA,44.378761023283005
+2020-07-12,1 day ahead cum death,2020-07-13,04,Arizona,point,NA,2089.7608957886696
+2020-07-12,2 day ahead cum death,2020-07-14,04,Arizona,point,NA,2215.400012731552
+2020-07-12,1 day ahead cum death,2020-07-13,05,Arkansas,point,NA,361.3153148293495
+2020-07-12,2 day ahead cum death,2020-07-14,05,Arkansas,point,NA,370.91700026392937
+2020-07-12,1 day ahead cum death,2020-07-13,06,California,point,NA,6960.814296096563
+2020-07-12,2 day ahead cum death,2020-07-14,06,California,point,NA,7094.2029266655445
+2020-07-12,1 day ahead cum death,2020-07-13,08,Colorado,point,NA,1756.088784366846
+2020-07-12,2 day ahead cum death,2020-07-14,08,Colorado,point,NA,1760.1408176720142
+2020-07-12,1 day ahead cum death,2020-07-13,09,Connecticut,point,NA,4362.042720168829
+2020-07-12,2 day ahead cum death,2020-07-14,09,Connecticut,point,NA,4358.730658620596
+2020-07-12,1 day ahead cum death,2020-07-13,10,Delaware,point,NA,527.7650320529938
+2020-07-12,2 day ahead cum death,2020-07-14,10,Delaware,point,NA,530.5466244220734
+2020-07-12,1 day ahead cum death,2020-07-13,12,Florida,point,NA,4151.028970003128
+2020-07-12,2 day ahead cum death,2020-07-14,12,Florida,point,NA,4211.199225157499
+2020-07-12,1 day ahead cum death,2020-07-13,13,Georgia,point,NA,2973.5973097980022
+2020-07-12,2 day ahead cum death,2020-07-14,13,Georgia,point,NA,2996.168245345354
+2020-07-12,1 day ahead cum death,2020-07-13,16,Idaho,point,NA,141.40021795034409
+2020-07-12,2 day ahead cum death,2020-07-14,16,Idaho,point,NA,142.78141844272614
+2020-07-12,1 day ahead cum death,2020-07-13,17,Illinois,point,NA,7203.354627966881
+2020-07-12,2 day ahead cum death,2020-07-14,17,Illinois,point,NA,7239.861065119505
+2020-07-12,1 day ahead cum death,2020-07-13,18,Indiana,point,NA,2573.110331207514
+2020-07-12,2 day ahead cum death,2020-07-14,18,Indiana,point,NA,2596.230625540018
+2020-07-12,1 day ahead cum death,2020-07-13,19,Iowa,point,NA,804.8802443146706
+2020-07-12,2 day ahead cum death,2020-07-14,19,Iowa,point,NA,813.6025827527046
+2020-07-12,1 day ahead cum death,2020-07-13,20,Kansas,point,NA,401.90976962447166
+2020-07-12,2 day ahead cum death,2020-07-14,20,Kansas,point,NA,404.32028263807297
+2020-07-12,1 day ahead cum death,2020-07-13,21,Kentucky,point,NA,702.2727467119694
+2020-07-12,2 day ahead cum death,2020-07-14,21,Kentucky,point,NA,709.3994065821171
+2020-07-12,1 day ahead cum death,2020-07-13,22,Louisiana,point,NA,3263.9739586412907
+2020-07-12,2 day ahead cum death,2020-07-14,22,Louisiana,point,NA,3288.3441029191017
+2020-07-12,1 day ahead cum death,2020-07-13,23,Maine,point,NA,121.86155182123184
+2020-07-12,2 day ahead cum death,2020-07-14,23,Maine,point,NA,122.869574457407
+2020-07-12,1 day ahead cum death,2020-07-13,24,Maryland,point,NA,3285.0862841010094
+2020-07-12,2 day ahead cum death,2020-07-14,24,Maryland,point,NA,3298.5138191878796
+2020-07-12,1 day ahead cum death,2020-07-13,25,Massachusetts,point,NA,8326.299184441566
+2020-07-12,2 day ahead cum death,2020-07-14,25,Massachusetts,point,NA,8298.724000096321
+2020-07-12,1 day ahead cum death,2020-07-13,26,Michigan,point,NA,6227.049035400152
+2020-07-12,2 day ahead cum death,2020-07-14,26,Michigan,point,NA,6263.092211335897
+2020-07-12,1 day ahead cum death,2020-07-13,27,Minnesota,point,NA,1568.5470859408379
+2020-07-12,2 day ahead cum death,2020-07-14,27,Minnesota,point,NA,1571.0640960037708
+2020-07-12,1 day ahead cum death,2020-07-13,28,Mississippi,point,NA,1166.4645977318287
+2020-07-12,2 day ahead cum death,2020-07-14,28,Mississippi,point,NA,1213.0540322363377
+2020-07-12,1 day ahead cum death,2020-07-13,29,Missouri,point,NA,1152.2893175780773
+2020-07-12,2 day ahead cum death,2020-07-14,29,Missouri,point,NA,1166.5161781609058
+2020-07-12,1 day ahead cum death,2020-07-13,30,Montana,point,NA,85.59345680475235
+2020-07-12,2 day ahead cum death,2020-07-14,30,Montana,point,NA,85.6240927875042
+2020-07-12,1 day ahead cum death,2020-07-13,31,Nebraska,point,NA,383.4374887049198
+2020-07-12,2 day ahead cum death,2020-07-14,31,Nebraska,point,NA,381.2901627421379
+2020-07-12,1 day ahead cum death,2020-07-13,32,Nevada,point,NA,586.0936487019062
+2020-07-12,2 day ahead cum death,2020-07-14,32,Nevada,point,NA,597.6378147006035
+2020-07-12,1 day ahead cum death,2020-07-13,33,New Hampshire,point,NA,396.25837802886963
+2020-07-12,2 day ahead cum death,2020-07-14,33,New Hampshire,point,NA,396.6902675628662
+2020-07-12,1 day ahead cum death,2020-07-13,34,New Jersey,point,NA,15551.74608707428
+2020-07-12,2 day ahead cum death,2020-07-14,34,New Jersey,point,NA,15596.831325769424
+2020-07-12,1 day ahead cum death,2020-07-13,35,New Mexico,point,NA,550.2572856247425
+2020-07-12,2 day ahead cum death,2020-07-14,35,New Mexico,point,NA,555.3328652381897
+2020-07-12,1 day ahead cum death,2020-07-13,36,New York,point,NA,32399.923882216215
+2020-07-12,2 day ahead cum death,2020-07-14,36,New York,point,NA,32412.148408144712
+2020-07-12,1 day ahead cum death,2020-07-13,37,North Carolina,point,NA,1544.4297266602516
+2020-07-12,2 day ahead cum death,2020-07-14,37,North Carolina,point,NA,1556.3020651042461
+2020-07-12,1 day ahead cum death,2020-07-13,38,North Dakota,point,NA,140.40739572048187
+2020-07-12,2 day ahead cum death,2020-07-14,38,North Dakota,point,NA,144.79074668884277
+2020-07-12,1 day ahead cum death,2020-07-13,39,Ohio,point,NA,3030.831429183483
+2020-07-12,2 day ahead cum death,2020-07-14,39,Ohio,point,NA,3078.398963302374
+2020-07-12,1 day ahead cum death,2020-07-13,40,Oklahoma,point,NA,462.83971205353737
+2020-07-12,2 day ahead cum death,2020-07-14,40,Oklahoma,point,NA,468.47383400797844
+2020-07-12,1 day ahead cum death,2020-07-13,41,Oregon,point,NA,256.0914181768894
+2020-07-12,2 day ahead cum death,2020-07-14,41,Oregon,point,NA,261.3970345854759
+2020-07-12,1 day ahead cum death,2020-07-13,42,Pennsylvania,point,NA,6887.087326347828
+2020-07-12,2 day ahead cum death,2020-07-14,42,Pennsylvania,point,NA,6921.301694899797
+2020-07-12,1 day ahead cum death,2020-07-13,44,Rhode Island,point,NA,9.1780024766922
+2020-07-12,2 day ahead cum death,2020-07-14,44,Rhode Island,point,NA,9.1780024766922
+2020-07-12,1 day ahead cum death,2020-07-13,45,South Carolina,point,NA,913.2551979422569
+2020-07-12,2 day ahead cum death,2020-07-14,45,South Carolina,point,NA,932.8915022909641
+2020-07-12,1 day ahead cum death,2020-07-13,46,South Dakota,point,NA,168.3518187701702
+2020-07-12,2 day ahead cum death,2020-07-14,46,South Dakota,point,NA,169.3580821454525
+2020-07-12,1 day ahead cum death,2020-07-13,47,Tennessee,point,NA,760.7050983905792
+2020-07-12,2 day ahead cum death,2020-07-14,47,Tennessee,point,NA,773.6864435374737
+2020-07-12,1 day ahead cum death,2020-07-13,48,Texas,point,NA,3178.228202342987
+2020-07-12,2 day ahead cum death,2020-07-14,48,Texas,point,NA,3323.252833932638
+2020-07-12,1 day ahead cum death,2020-07-13,49,Utah,point,NA,209.37061017751694
+2020-07-12,2 day ahead cum death,2020-07-14,49,Utah,point,NA,214.32594653964043
+2020-07-12,1 day ahead cum death,2020-07-13,50,Vermont,point,NA,65.13796705007553
+2020-07-12,2 day ahead cum death,2020-07-14,50,Vermont,point,NA,65.13796705007553
+2020-07-12,1 day ahead cum death,2020-07-13,51,Virginia,point,NA,1981.035634815693
+2020-07-12,2 day ahead cum death,2020-07-14,51,Virginia,point,NA,2006.160898834467
+2020-07-12,1 day ahead cum death,2020-07-13,53,Washington,point,NA,1433.1121655404568
+2020-07-12,2 day ahead cum death,2020-07-14,53,Washington,point,NA,1447.2372532486916
+2020-07-12,1 day ahead cum death,2020-07-13,54,West Virginia,point,NA,143.4318549335003
+2020-07-12,2 day ahead cum death,2020-07-14,54,West Virginia,point,NA,143.42635628581047
+2020-07-12,1 day ahead cum death,2020-07-13,55,Wisconsin,point,NA,863.7864661216736
+2020-07-12,2 day ahead cum death,2020-07-14,55,Wisconsin,point,NA,872.5416080951691
+2020-07-12,1 day ahead cum death,2020-07-13,56,Wyoming,point,NA,29.966752409934998
+2020-07-12,2 day ahead cum death,2020-07-14,56,Wyoming,point,NA,29.955731213092804
