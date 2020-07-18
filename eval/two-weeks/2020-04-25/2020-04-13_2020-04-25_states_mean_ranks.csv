@@ -1,9 +1,9 @@
 ,mean_rank
-LANL-GrowthRate,3.6
+LANL-GrowthRate,3.5
+COVIDhub-baseline,3.7
 COVIDhub-ensemble,3.7
-COVIDhub-baseline,3.8
 YYG-ParamSearch,4.0
-MIT_Sak,4.5
-IHME-CurveFit,4.9
-MOBS_NEU-GLEAM_COVID,5.4
+MIT_Sak,4.6
+IHME-CurveFit,5.0
+MOBS-GLEAM_COVID,5.4
 CU-select,6.1
