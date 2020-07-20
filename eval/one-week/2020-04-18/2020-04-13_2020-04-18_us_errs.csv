@@ -1,5 +1,5 @@
 ,total_deaths_2020-04-12,predicted_deaths,actual_deaths,predicted_addl_deaths,actual_addl_deaths,error,perc_error
-MIT_Sak,26548,40951.7,40442,14865.7,13894.0,971.7,7.0%
+MIT_Sak,26548,38920.4,40442,12834.4,13894.0,-1059.6,-7.6%
 Imperial-combined,26548,38905.5,40442,12819.5,13894.0,-1074.5,-7.7%
 Baseline,26548,37949.7,40442,11863.7,13894.0,-2030.3,-14.6%
 Baseline_0.98,26548,37372.1,40442,11286.1,13894.0,-2607.9,-18.8%
