@@ -1,701 +1,701 @@
 forecast_date,target,target_end_date,location,location_name,type,quantile,value
-2020-07-05,1 day ahead cum death,2020-07-06,US,US,point,NA,129551.52478781343
-2020-07-05,2 day ahead cum death,2020-07-07,US,US,point,NA,130238.98332634568
-2020-07-05,3 day ahead cum death,2020-07-08,US,US,point,NA,130922.47519913316
-2020-07-05,4 day ahead cum death,2020-07-09,US,US,point,NA,132090.9577333331
-2020-07-05,5 day ahead cum death,2020-07-10,US,US,point,NA,132806.3299075961
-2020-07-05,6 day ahead cum death,2020-07-11,US,US,point,NA,132960.74936264753
-2020-07-05,7 day ahead cum death,2020-07-12,US,US,point,NA,133251.1881658435
-2020-07-05,8 day ahead cum death,2020-07-13,US,US,point,NA,134130.41721880436
-2020-07-05,9 day ahead cum death,2020-07-14,US,US,point,NA,134861.86505410075
-2020-07-05,10 day ahead cum death,2020-07-15,US,US,point,NA,135694.04987236857
-2020-07-05,11 day ahead cum death,2020-07-16,US,US,point,NA,136640.1930680871
-2020-07-05,12 day ahead cum death,2020-07-17,US,US,point,NA,137576.99711373448
-2020-07-05,13 day ahead cum death,2020-07-18,US,US,point,NA,137831.25133568048
-2020-07-05,14 day ahead cum death,2020-07-19,US,US,point,NA,138200.2009358406
-2020-07-05,1 day ahead cum death,2020-07-06,01,Alabama,point,NA,973.4986498653889
-2020-07-05,2 day ahead cum death,2020-07-07,01,Alabama,point,NA,998.9294990003109
-2020-07-05,3 day ahead cum death,2020-07-08,01,Alabama,point,NA,1019.6331194341183
-2020-07-05,4 day ahead cum death,2020-07-09,01,Alabama,point,NA,1033.951414436102
-2020-07-05,5 day ahead cum death,2020-07-10,01,Alabama,point,NA,1052.9713436961174
-2020-07-05,6 day ahead cum death,2020-07-11,01,Alabama,point,NA,1055.284697264433
-2020-07-05,7 day ahead cum death,2020-07-12,01,Alabama,point,NA,1052.9128341674805
-2020-07-05,8 day ahead cum death,2020-07-13,01,Alabama,point,NA,1041.48763987422
-2020-07-05,9 day ahead cum death,2020-07-14,01,Alabama,point,NA,1068.496886819601
-2020-07-05,10 day ahead cum death,2020-07-15,01,Alabama,point,NA,1091.6448328197002
-2020-07-05,11 day ahead cum death,2020-07-16,01,Alabama,point,NA,1107.4213418960571
-2020-07-05,12 day ahead cum death,2020-07-17,01,Alabama,point,NA,1131.569765329361
-2020-07-05,13 day ahead cum death,2020-07-18,01,Alabama,point,NA,1133.0306778848171
-2020-07-05,14 day ahead cum death,2020-07-19,01,Alabama,point,NA,1132.08086591959
-2020-07-05,1 day ahead cum death,2020-07-06,02,Alaska,point,NA,42.84104913473129
-2020-07-05,2 day ahead cum death,2020-07-07,02,Alaska,point,NA,42.862481743097305
-2020-07-05,3 day ahead cum death,2020-07-08,02,Alaska,point,NA,42.805330127477646
-2020-07-05,4 day ahead cum death,2020-07-09,02,Alaska,point,NA,42.8244893848896
-2020-07-05,5 day ahead cum death,2020-07-10,02,Alaska,point,NA,42.950666308403015
-2020-07-05,6 day ahead cum death,2020-07-11,02,Alaska,point,NA,43.98538729548454
-2020-07-05,7 day ahead cum death,2020-07-12,02,Alaska,point,NA,43.99234890937805
-2020-07-05,8 day ahead cum death,2020-07-13,02,Alaska,point,NA,50.85785087943077
-2020-07-05,9 day ahead cum death,2020-07-14,02,Alaska,point,NA,51.161728739738464
-2020-07-05,10 day ahead cum death,2020-07-15,02,Alaska,point,NA,51.104577124118805
-2020-07-05,11 day ahead cum death,2020-07-16,02,Alaska,point,NA,51.21826782822609
-2020-07-05,12 day ahead cum death,2020-07-17,02,Alaska,point,NA,51.25760239362717
-2020-07-05,13 day ahead cum death,2020-07-18,02,Alaska,point,NA,52.2859825193882
-2020-07-05,14 day ahead cum death,2020-07-19,02,Alaska,point,NA,52.34279423952103
-2020-07-05,1 day ahead cum death,2020-07-06,04,Arizona,point,NA,1777.670374006033
-2020-07-05,2 day ahead cum death,2020-07-07,04,Arizona,point,NA,1860.5596623718739
-2020-07-05,3 day ahead cum death,2020-07-08,04,Arizona,point,NA,1948.7327636480331
-2020-07-05,4 day ahead cum death,2020-07-09,04,Arizona,point,NA,1990.8263618052006
-2020-07-05,5 day ahead cum death,2020-07-10,04,Arizona,point,NA,2030.9092379808426
-2020-07-05,6 day ahead cum death,2020-07-11,04,Arizona,point,NA,2047.9604771137238
-2020-07-05,7 day ahead cum death,2020-07-12,04,Arizona,point,NA,2060.4449177980423
-2020-07-05,8 day ahead cum death,2020-07-13,04,Arizona,point,NA,2011.1572611033916
-2020-07-05,9 day ahead cum death,2020-07-14,04,Arizona,point,NA,2100.72237983346
-2020-07-05,10 day ahead cum death,2020-07-15,04,Arizona,point,NA,2183.22629570961
-2020-07-05,11 day ahead cum death,2020-07-16,04,Arizona,point,NA,2224.6364401876926
-2020-07-05,12 day ahead cum death,2020-07-17,04,Arizona,point,NA,2269.327772319317
-2020-07-05,13 day ahead cum death,2020-07-18,04,Arizona,point,NA,2286.3922452032566
-2020-07-05,14 day ahead cum death,2020-07-19,04,Arizona,point,NA,2302.342655479908
-2020-07-05,1 day ahead cum death,2020-07-06,05,Arkansas,point,NA,340.97978350520134
-2020-07-05,2 day ahead cum death,2020-07-07,05,Arkansas,point,NA,346.11999291181564
-2020-07-05,3 day ahead cum death,2020-07-08,05,Arkansas,point,NA,351.50259679555893
-2020-07-05,4 day ahead cum death,2020-07-09,05,Arkansas,point,NA,352.4156685769558
-2020-07-05,5 day ahead cum death,2020-07-10,05,Arkansas,point,NA,355.74401420354843
-2020-07-05,6 day ahead cum death,2020-07-11,05,Arkansas,point,NA,357.54739969968796
-2020-07-05,7 day ahead cum death,2020-07-12,05,Arkansas,point,NA,357.6055539548397
-2020-07-05,8 day ahead cum death,2020-07-13,05,Arkansas,point,NA,384.0861646234989
-2020-07-05,9 day ahead cum death,2020-07-14,05,Arkansas,point,NA,391.41551038622856
-2020-07-05,10 day ahead cum death,2020-07-15,05,Arkansas,point,NA,395.5493225157261
-2020-07-05,11 day ahead cum death,2020-07-16,05,Arkansas,point,NA,397.64275032281876
-2020-07-05,12 day ahead cum death,2020-07-17,05,Arkansas,point,NA,399.77322590351105
-2020-07-05,13 day ahead cum death,2020-07-18,05,Arkansas,point,NA,400.0963781774044
-2020-07-05,14 day ahead cum death,2020-07-19,05,Arkansas,point,NA,401.05530402064323
-2020-07-05,1 day ahead cum death,2020-07-06,06,California,point,NA,6379.383827477694
-2020-07-05,2 day ahead cum death,2020-07-07,06,California,point,NA,6490.015561282635
-2020-07-05,3 day ahead cum death,2020-07-08,06,California,point,NA,6572.259617090225
-2020-07-05,4 day ahead cum death,2020-07-09,06,California,point,NA,6680.767517954111
-2020-07-05,5 day ahead cum death,2020-07-10,06,California,point,NA,6735.024539262056
-2020-07-05,6 day ahead cum death,2020-07-11,06,California,point,NA,6759.271021693945
-2020-07-05,7 day ahead cum death,2020-07-12,06,California,point,NA,6792.724162817001
-2020-07-05,8 day ahead cum death,2020-07-13,06,California,point,NA,6831.656987428665
-2020-07-05,9 day ahead cum death,2020-07-14,06,California,point,NA,6951.516532897949
-2020-07-05,10 day ahead cum death,2020-07-15,06,California,point,NA,7083.126354902983
-2020-07-05,11 day ahead cum death,2020-07-16,06,California,point,NA,7159.854927957058
-2020-07-05,12 day ahead cum death,2020-07-17,06,California,point,NA,7271.290856510401
-2020-07-05,13 day ahead cum death,2020-07-18,06,California,point,NA,7318.052434235811
-2020-07-05,14 day ahead cum death,2020-07-19,06,California,point,NA,7336.867749929428
-2020-07-05,1 day ahead cum death,2020-07-06,08,Colorado,point,NA,1757.5434319674969
-2020-07-05,2 day ahead cum death,2020-07-07,08,Colorado,point,NA,1762.8396699130535
-2020-07-05,3 day ahead cum death,2020-07-08,08,Colorado,point,NA,1767.3311673104763
-2020-07-05,4 day ahead cum death,2020-07-09,08,Colorado,point,NA,1769.899512797594
-2020-07-05,5 day ahead cum death,2020-07-10,08,Colorado,point,NA,1769.3965066671371
-2020-07-05,6 day ahead cum death,2020-07-11,08,Colorado,point,NA,1767.8358230888844
-2020-07-05,7 day ahead cum death,2020-07-12,08,Colorado,point,NA,1768.3263648450375
-2020-07-05,8 day ahead cum death,2020-07-13,08,Colorado,point,NA,1796.8249154686928
-2020-07-05,9 day ahead cum death,2020-07-14,08,Colorado,point,NA,1801.118797659874
-2020-07-05,10 day ahead cum death,2020-07-15,08,Colorado,point,NA,1805.0651370286942
-2020-07-05,11 day ahead cum death,2020-07-16,08,Colorado,point,NA,1809.9229829609394
-2020-07-05,12 day ahead cum death,2020-07-17,08,Colorado,point,NA,1810.7367631495
-2020-07-05,13 day ahead cum death,2020-07-18,08,Colorado,point,NA,1808.698336482048
-2020-07-05,14 day ahead cum death,2020-07-19,08,Colorado,point,NA,1809.6744342446327
-2020-07-05,1 day ahead cum death,2020-07-06,09,Connecticut,point,NA,4362.123775035143
-2020-07-05,2 day ahead cum death,2020-07-07,09,Connecticut,point,NA,4364.51722446084
-2020-07-05,3 day ahead cum death,2020-07-08,09,Connecticut,point,NA,4363.784182161093
-2020-07-05,4 day ahead cum death,2020-07-09,09,Connecticut,point,NA,4363.517211169004
-2020-07-05,5 day ahead cum death,2020-07-10,09,Connecticut,point,NA,4370.362469881773
-2020-07-05,6 day ahead cum death,2020-07-11,09,Connecticut,point,NA,4369.334355294704
-2020-07-05,7 day ahead cum death,2020-07-12,09,Connecticut,point,NA,4362.737364441156
-2020-07-05,8 day ahead cum death,2020-07-13,09,Connecticut,point,NA,4389.215986520052
-2020-07-05,9 day ahead cum death,2020-07-14,09,Connecticut,point,NA,4389.696921259165
-2020-07-05,10 day ahead cum death,2020-07-15,09,Connecticut,point,NA,4386.828202337027
-2020-07-05,11 day ahead cum death,2020-07-16,09,Connecticut,point,NA,4384.47744768858
-2020-07-05,12 day ahead cum death,2020-07-17,09,Connecticut,point,NA,4390.762058436871
-2020-07-05,13 day ahead cum death,2020-07-18,09,Connecticut,point,NA,4389.72459924221
-2020-07-05,14 day ahead cum death,2020-07-19,09,Connecticut,point,NA,4380.631064981222
-2020-07-05,1 day ahead cum death,2020-07-06,10,Delaware,point,NA,521.5679030418396
-2020-07-05,2 day ahead cum death,2020-07-07,10,Delaware,point,NA,542.913428068161
-2020-07-05,3 day ahead cum death,2020-07-08,10,Delaware,point,NA,535.9237208366394
-2020-07-05,4 day ahead cum death,2020-07-09,10,Delaware,point,NA,533.2240216732025
-2020-07-05,5 day ahead cum death,2020-07-10,10,Delaware,point,NA,535.3255681991577
-2020-07-05,6 day ahead cum death,2020-07-11,10,Delaware,point,NA,534.945604801178
-2020-07-05,7 day ahead cum death,2020-07-12,10,Delaware,point,NA,534.7523900270462
-2020-07-05,8 day ahead cum death,2020-07-13,10,Delaware,point,NA,543.498088479042
-2020-07-05,9 day ahead cum death,2020-07-14,10,Delaware,point,NA,557.3314957618713
-2020-07-05,10 day ahead cum death,2020-07-15,10,Delaware,point,NA,550.3124729394913
-2020-07-05,11 day ahead cum death,2020-07-16,10,Delaware,point,NA,547.0708554983139
-2020-07-05,12 day ahead cum death,2020-07-17,10,Delaware,point,NA,549.139928817749
-2020-07-05,13 day ahead cum death,2020-07-18,10,Delaware,point,NA,548.775567650795
-2020-07-05,14 day ahead cum death,2020-07-19,10,Delaware,point,NA,548.7693803310394
-2020-07-05,1 day ahead cum death,2020-07-06,12,Florida,point,NA,3721.0215777754784
-2020-07-05,2 day ahead cum death,2020-07-07,12,Florida,point,NA,3777.77799859643
-2020-07-05,3 day ahead cum death,2020-07-08,12,Florida,point,NA,3864.57872992754
-2020-07-05,4 day ahead cum death,2020-07-09,12,Florida,point,NA,3943.3229010105133
-2020-07-05,5 day ahead cum death,2020-07-10,12,Florida,point,NA,4037.328799933195
-2020-07-05,6 day ahead cum death,2020-07-11,12,Florida,point,NA,4058.7145629525185
-2020-07-05,7 day ahead cum death,2020-07-12,12,Florida,point,NA,4116.1909900307655
-2020-07-05,8 day ahead cum death,2020-07-13,12,Florida,point,NA,4102.545723080635
-2020-07-05,9 day ahead cum death,2020-07-14,12,Florida,point,NA,4158.235461741686
-2020-07-05,10 day ahead cum death,2020-07-15,12,Florida,point,NA,4347.491461843252
-2020-07-05,11 day ahead cum death,2020-07-16,12,Florida,point,NA,4449.358171492815
-2020-07-05,12 day ahead cum death,2020-07-17,12,Florida,point,NA,4611.631830275059
-2020-07-05,13 day ahead cum death,2020-07-18,12,Florida,point,NA,4671.692247271538
-2020-07-05,14 day ahead cum death,2020-07-19,12,Florida,point,NA,4814.076604932547
-2020-07-05,1 day ahead cum death,2020-07-06,13,Georgia,point,NA,2880.5107682943344
-2020-07-05,2 day ahead cum death,2020-07-07,13,Georgia,point,NA,2902.177048712969
-2020-07-05,3 day ahead cum death,2020-07-08,13,Georgia,point,NA,2918.3686538636684
-2020-07-05,4 day ahead cum death,2020-07-09,13,Georgia,point,NA,2939.474246889353
-2020-07-05,5 day ahead cum death,2020-07-10,13,Georgia,point,NA,2943.075476080179
-2020-07-05,6 day ahead cum death,2020-07-11,13,Georgia,point,NA,2940.356933057308
-2020-07-05,7 day ahead cum death,2020-07-12,13,Georgia,point,NA,2943.625064700842
-2020-07-05,8 day ahead cum death,2020-07-13,13,Georgia,point,NA,2997.9909413158894
-2020-07-05,9 day ahead cum death,2020-07-14,13,Georgia,point,NA,3026.2683885097504
-2020-07-05,10 day ahead cum death,2020-07-15,13,Georgia,point,NA,3043.5178066790104
-2020-07-05,11 day ahead cum death,2020-07-16,13,Georgia,point,NA,3058.652885466814
-2020-07-05,12 day ahead cum death,2020-07-17,13,Georgia,point,NA,3064.1994524896145
-2020-07-05,13 day ahead cum death,2020-07-18,13,Georgia,point,NA,3069.812125682831
-2020-07-05,14 day ahead cum death,2020-07-19,13,Georgia,point,NA,3074.7610014081
-2020-07-05,1 day ahead cum death,2020-07-06,16,Idaho,point,NA,136.48077794909477
-2020-07-05,2 day ahead cum death,2020-07-07,16,Idaho,point,NA,137.3894679248333
-2020-07-05,3 day ahead cum death,2020-07-08,16,Idaho,point,NA,137.68442198634148
-2020-07-05,4 day ahead cum death,2020-07-09,16,Idaho,point,NA,138.08462744951248
-2020-07-05,5 day ahead cum death,2020-07-10,16,Idaho,point,NA,139.0662407875061
-2020-07-05,6 day ahead cum death,2020-07-11,16,Idaho,point,NA,139.87122678756714
-2020-07-05,7 day ahead cum death,2020-07-12,16,Idaho,point,NA,140.07423520088196
-2020-07-05,8 day ahead cum death,2020-07-13,16,Idaho,point,NA,154.15104827284813
-2020-07-05,9 day ahead cum death,2020-07-14,16,Idaho,point,NA,155.8743731379509
-2020-07-05,10 day ahead cum death,2020-07-15,16,Idaho,point,NA,156.34699723124504
-2020-07-05,11 day ahead cum death,2020-07-16,16,Idaho,point,NA,158.59851816296577
-2020-07-05,12 day ahead cum death,2020-07-17,16,Idaho,point,NA,159.38795867562294
-2020-07-05,13 day ahead cum death,2020-07-18,16,Idaho,point,NA,160.69519639015198
-2020-07-05,14 day ahead cum death,2020-07-19,16,Idaho,point,NA,161.3529531955719
-2020-07-05,1 day ahead cum death,2020-07-06,17,Illinois,point,NA,7125.675048738718
-2020-07-05,2 day ahead cum death,2020-07-07,17,Illinois,point,NA,7118.082106888294
-2020-07-05,3 day ahead cum death,2020-07-08,17,Illinois,point,NA,7143.87867462635
-2020-07-05,4 day ahead cum death,2020-07-09,17,Illinois,point,NA,7186.200409531593
-2020-07-05,5 day ahead cum death,2020-07-10,17,Illinois,point,NA,7203.467338621616
-2020-07-05,6 day ahead cum death,2020-07-11,17,Illinois,point,NA,7209.3596540391445
-2020-07-05,7 day ahead cum death,2020-07-12,17,Illinois,point,NA,7217.3130730986595
-2020-07-05,8 day ahead cum death,2020-07-13,17,Illinois,point,NA,7280.2125181257725
-2020-07-05,9 day ahead cum death,2020-07-14,17,Illinois,point,NA,7269.346902340651
-2020-07-05,10 day ahead cum death,2020-07-15,17,Illinois,point,NA,7291.484354197979
-2020-07-05,11 day ahead cum death,2020-07-16,17,Illinois,point,NA,7347.710099875927
-2020-07-05,12 day ahead cum death,2020-07-17,17,Illinois,point,NA,7365.080855101347
-2020-07-05,13 day ahead cum death,2020-07-18,17,Illinois,point,NA,7365.727651357651
-2020-07-05,14 day ahead cum death,2020-07-19,17,Illinois,point,NA,7376.295112133026
-2020-07-05,1 day ahead cum death,2020-07-06,18,Indiana,point,NA,2514.2747486531734
-2020-07-05,2 day ahead cum death,2020-07-07,18,Indiana,point,NA,2529.389295786619
-2020-07-05,3 day ahead cum death,2020-07-08,18,Indiana,point,NA,2530.503224760294
-2020-07-05,4 day ahead cum death,2020-07-09,18,Indiana,point,NA,2542.724077552557
-2020-07-05,5 day ahead cum death,2020-07-10,18,Indiana,point,NA,2563.661017984152
-2020-07-05,6 day ahead cum death,2020-07-11,18,Indiana,point,NA,2566.9292782247066
-2020-07-05,7 day ahead cum death,2020-07-12,18,Indiana,point,NA,2575.247060865164
-2020-07-05,8 day ahead cum death,2020-07-13,18,Indiana,point,NA,2572.9966146349907
-2020-07-05,9 day ahead cum death,2020-07-14,18,Indiana,point,NA,2590.661479651928
-2020-07-05,10 day ahead cum death,2020-07-15,18,Indiana,point,NA,2587.701053351164
-2020-07-05,11 day ahead cum death,2020-07-16,18,Indiana,point,NA,2602.587725818157
-2020-07-05,12 day ahead cum death,2020-07-17,18,Indiana,point,NA,2629.6229845285416
-2020-07-05,13 day ahead cum death,2020-07-18,18,Indiana,point,NA,2627.965259850025
-2020-07-05,14 day ahead cum death,2020-07-19,18,Indiana,point,NA,2637.0481705367565
-2020-07-05,1 day ahead cum death,2020-07-06,19,Iowa,point,NA,795.82656493783
-2020-07-05,2 day ahead cum death,2020-07-07,19,Iowa,point,NA,800.6627893745899
-2020-07-05,3 day ahead cum death,2020-07-08,19,Iowa,point,NA,800.9526602625847
-2020-07-05,4 day ahead cum death,2020-07-09,19,Iowa,point,NA,801.9545858502388
-2020-07-05,5 day ahead cum death,2020-07-10,19,Iowa,point,NA,804.4036636650562
-2020-07-05,6 day ahead cum death,2020-07-11,19,Iowa,point,NA,802.8128466904163
-2020-07-05,7 day ahead cum death,2020-07-12,19,Iowa,point,NA,804.5431994795799
-2020-07-05,8 day ahead cum death,2020-07-13,19,Iowa,point,NA,838.6606901884079
-2020-07-05,9 day ahead cum death,2020-07-14,19,Iowa,point,NA,844.0856696069241
-2020-07-05,10 day ahead cum death,2020-07-15,19,Iowa,point,NA,843.7000017464161
-2020-07-05,11 day ahead cum death,2020-07-16,19,Iowa,point,NA,845.9460335373878
-2020-07-05,12 day ahead cum death,2020-07-17,19,Iowa,point,NA,847.5424969494343
-2020-07-05,13 day ahead cum death,2020-07-18,19,Iowa,point,NA,847.4004968702793
-2020-07-05,14 day ahead cum death,2020-07-19,19,Iowa,point,NA,848.7133750915527
-2020-07-05,1 day ahead cum death,2020-07-06,20,Kansas,point,NA,389.1050443649292
-2020-07-05,2 day ahead cum death,2020-07-07,20,Kansas,point,NA,390.09193193912506
-2020-07-05,3 day ahead cum death,2020-07-08,20,Kansas,point,NA,393.47404462099075
-2020-07-05,4 day ahead cum death,2020-07-09,20,Kansas,point,NA,396.6620756685734
-2020-07-05,5 day ahead cum death,2020-07-10,20,Kansas,point,NA,398.7378335595131
-2020-07-05,6 day ahead cum death,2020-07-11,20,Kansas,point,NA,400.6596255302429
-2020-07-05,7 day ahead cum death,2020-07-12,20,Kansas,point,NA,400.79268485307693
-2020-07-05,8 day ahead cum death,2020-07-13,20,Kansas,point,NA,430.7199375331402
-2020-07-05,9 day ahead cum death,2020-07-14,20,Kansas,point,NA,431.9766755402088
-2020-07-05,10 day ahead cum death,2020-07-15,20,Kansas,point,NA,435.8684686422348
-2020-07-05,11 day ahead cum death,2020-07-16,20,Kansas,point,NA,440.4293152987957
-2020-07-05,12 day ahead cum death,2020-07-17,20,Kansas,point,NA,441.4513247311115
-2020-07-05,13 day ahead cum death,2020-07-18,20,Kansas,point,NA,444.8789874315262
-2020-07-05,14 day ahead cum death,2020-07-19,20,Kansas,point,NA,445.7024970650673
-2020-07-05,1 day ahead cum death,2020-07-06,21,Kentucky,point,NA,668.3301107287407
-2020-07-05,2 day ahead cum death,2020-07-07,21,Kentucky,point,NA,673.1490768790245
-2020-07-05,3 day ahead cum death,2020-07-08,21,Kentucky,point,NA,680.1856654882431
-2020-07-05,4 day ahead cum death,2020-07-09,21,Kentucky,point,NA,687.8345033824444
-2020-07-05,5 day ahead cum death,2020-07-10,21,Kentucky,point,NA,693.1255790889263
-2020-07-05,6 day ahead cum death,2020-07-11,21,Kentucky,point,NA,691.6305274367332
-2020-07-05,7 day ahead cum death,2020-07-12,21,Kentucky,point,NA,691.8426131606102
-2020-07-05,8 day ahead cum death,2020-07-13,21,Kentucky,point,NA,715.7107271850109
-2020-07-05,9 day ahead cum death,2020-07-14,21,Kentucky,point,NA,721.2784191071987
-2020-07-05,10 day ahead cum death,2020-07-15,21,Kentucky,point,NA,728.6434849202633
-2020-07-05,11 day ahead cum death,2020-07-16,21,Kentucky,point,NA,734.8642459213734
-2020-07-05,12 day ahead cum death,2020-07-17,21,Kentucky,point,NA,740.5027928352356
-2020-07-05,13 day ahead cum death,2020-07-18,21,Kentucky,point,NA,739.0116663873196
-2020-07-05,14 day ahead cum death,2020-07-19,21,Kentucky,point,NA,739.6913519203663
-2020-07-05,1 day ahead cum death,2020-07-06,22,Louisiana,point,NA,3161.593452781439
-2020-07-05,2 day ahead cum death,2020-07-07,22,Louisiana,point,NA,3182.236638724804
-2020-07-05,3 day ahead cum death,2020-07-08,22,Louisiana,point,NA,3201.2929885089397
-2020-07-05,4 day ahead cum death,2020-07-09,22,Louisiana,point,NA,3221.8803829550743
-2020-07-05,5 day ahead cum death,2020-07-10,22,Louisiana,point,NA,3248.3123039603233
-2020-07-05,6 day ahead cum death,2020-07-11,22,Louisiana,point,NA,3242.1574443876743
-2020-07-05,7 day ahead cum death,2020-07-12,22,Louisiana,point,NA,3257.2043954133987
-2020-07-05,8 day ahead cum death,2020-07-13,22,Louisiana,point,NA,3234.439604282379
-2020-07-05,9 day ahead cum death,2020-07-14,22,Louisiana,point,NA,3254.6829464435577
-2020-07-05,10 day ahead cum death,2020-07-15,22,Louisiana,point,NA,3275.0908542871475
-2020-07-05,11 day ahead cum death,2020-07-16,22,Louisiana,point,NA,3304.6761034429073
-2020-07-05,12 day ahead cum death,2020-07-17,22,Louisiana,point,NA,3333.8482582867146
-2020-07-05,13 day ahead cum death,2020-07-18,22,Louisiana,point,NA,3328.755804479122
-2020-07-05,14 day ahead cum death,2020-07-19,22,Louisiana,point,NA,3348.477093666792
-2020-07-05,1 day ahead cum death,2020-07-06,23,Maine,point,NA,116.37197780609131
-2020-07-05,2 day ahead cum death,2020-07-07,23,Maine,point,NA,116.41264405846596
-2020-07-05,3 day ahead cum death,2020-07-08,23,Maine,point,NA,116.40277287364006
-2020-07-05,4 day ahead cum death,2020-07-09,23,Maine,point,NA,116.40630331635475
-2020-07-05,5 day ahead cum death,2020-07-10,23,Maine,point,NA,116.42128390073776
-2020-07-05,6 day ahead cum death,2020-07-11,23,Maine,point,NA,118.51816058158875
-2020-07-05,7 day ahead cum death,2020-07-12,23,Maine,point,NA,121.19783055782318
-2020-07-05,8 day ahead cum death,2020-07-13,23,Maine,point,NA,122.5376261472702
-2020-07-05,9 day ahead cum death,2020-07-14,23,Maine,point,NA,122.60118874907494
-2020-07-05,10 day ahead cum death,2020-07-15,23,Maine,point,NA,122.50700443983078
-2020-07-05,11 day ahead cum death,2020-07-16,23,Maine,point,NA,122.5025964975357
-2020-07-05,12 day ahead cum death,2020-07-17,23,Maine,point,NA,122.52991053462029
-2020-07-05,13 day ahead cum death,2020-07-18,23,Maine,point,NA,124.7447883784771
-2020-07-05,14 day ahead cum death,2020-07-19,23,Maine,point,NA,127.1374095082283
-2020-07-05,1 day ahead cum death,2020-07-06,24,Maryland,point,NA,3235.33335390687
-2020-07-05,2 day ahead cum death,2020-07-07,24,Maryland,point,NA,3241.854130089283
-2020-07-05,3 day ahead cum death,2020-07-08,24,Maryland,point,NA,3256.4824064671993
-2020-07-05,4 day ahead cum death,2020-07-09,24,Maryland,point,NA,3254.8579770624638
-2020-07-05,5 day ahead cum death,2020-07-10,24,Maryland,point,NA,3265.1526688933372
-2020-07-05,6 day ahead cum death,2020-07-11,24,Maryland,point,NA,3278.698308110237
-2020-07-05,7 day ahead cum death,2020-07-12,24,Maryland,point,NA,3280.92811819911
-2020-07-05,8 day ahead cum death,2020-07-13,24,Maryland,point,NA,3298.95175999403
-2020-07-05,9 day ahead cum death,2020-07-14,24,Maryland,point,NA,3304.64140483737
-2020-07-05,10 day ahead cum death,2020-07-15,24,Maryland,point,NA,3318.891262739897
-2020-07-05,11 day ahead cum death,2020-07-16,24,Maryland,point,NA,3314.6323095560074
-2020-07-05,12 day ahead cum death,2020-07-17,24,Maryland,point,NA,3323.1817405819893
-2020-07-05,13 day ahead cum death,2020-07-18,24,Maryland,point,NA,3336.889358729124
-2020-07-05,14 day ahead cum death,2020-07-19,24,Maryland,point,NA,3338.8789994716644
-2020-07-05,1 day ahead cum death,2020-07-06,25,Massachusetts,point,NA,8251.102470070124
-2020-07-05,2 day ahead cum death,2020-07-07,25,Massachusetts,point,NA,8212.278315395117
-2020-07-05,3 day ahead cum death,2020-07-08,25,Massachusetts,point,NA,8224.90918302536
-2020-07-05,4 day ahead cum death,2020-07-09,25,Massachusetts,point,NA,8277.090763926506
-2020-07-05,5 day ahead cum death,2020-07-10,25,Massachusetts,point,NA,8310.887549042702
-2020-07-05,6 day ahead cum death,2020-07-11,25,Massachusetts,point,NA,8318.496485888958
-2020-07-05,7 day ahead cum death,2020-07-12,25,Massachusetts,point,NA,8315.691958665848
-2020-07-05,8 day ahead cum death,2020-07-13,25,Massachusetts,point,NA,8406.795878559351
-2020-07-05,9 day ahead cum death,2020-07-14,25,Massachusetts,point,NA,8345.204867571592
-2020-07-05,10 day ahead cum death,2020-07-15,25,Massachusetts,point,NA,8342.420634627342
-2020-07-05,11 day ahead cum death,2020-07-16,25,Massachusetts,point,NA,8401.964416146278
-2020-07-05,12 day ahead cum death,2020-07-17,25,Massachusetts,point,NA,8415.425507903099
-2020-07-05,13 day ahead cum death,2020-07-18,25,Massachusetts,point,NA,8424.167029380798
-2020-07-05,14 day ahead cum death,2020-07-19,25,Massachusetts,point,NA,8409.654684007168
-2020-07-05,1 day ahead cum death,2020-07-06,26,Michigan,point,NA,6171.164874196053
-2020-07-05,2 day ahead cum death,2020-07-07,26,Michigan,point,NA,6204.152825713158
-2020-07-05,3 day ahead cum death,2020-07-08,26,Michigan,point,NA,6208.283215254545
-2020-07-05,4 day ahead cum death,2020-07-09,26,Michigan,point,NA,6222.447564691305
-2020-07-05,5 day ahead cum death,2020-07-10,26,Michigan,point,NA,6224.939051628113
-2020-07-05,6 day ahead cum death,2020-07-11,26,Michigan,point,NA,6226.148228019476
-2020-07-05,7 day ahead cum death,2020-07-12,26,Michigan,point,NA,6225.483128041029
-2020-07-05,8 day ahead cum death,2020-07-13,26,Michigan,point,NA,6230.278604716063
-2020-07-05,9 day ahead cum death,2020-07-14,26,Michigan,point,NA,6276.29117718339
-2020-07-05,10 day ahead cum death,2020-07-15,26,Michigan,point,NA,6280.745099782944
-2020-07-05,11 day ahead cum death,2020-07-16,26,Michigan,point,NA,6288.448333829641
-2020-07-05,12 day ahead cum death,2020-07-17,26,Michigan,point,NA,6298.36399820447
-2020-07-05,13 day ahead cum death,2020-07-18,26,Michigan,point,NA,6291.848666638136
-2020-07-05,14 day ahead cum death,2020-07-19,26,Michigan,point,NA,6292.45536005497
-2020-07-05,1 day ahead cum death,2020-07-06,27,Minnesota,point,NA,1544.6868803799152
-2020-07-05,2 day ahead cum death,2020-07-07,27,Minnesota,point,NA,1548.3714658617973
-2020-07-05,3 day ahead cum death,2020-07-08,27,Minnesota,point,NA,1548.555778414011
-2020-07-05,4 day ahead cum death,2020-07-09,27,Minnesota,point,NA,1562.6364193856716
-2020-07-05,5 day ahead cum death,2020-07-10,27,Minnesota,point,NA,1565.0330718159676
-2020-07-05,6 day ahead cum death,2020-07-11,27,Minnesota,point,NA,1561.8994573652744
-2020-07-05,7 day ahead cum death,2020-07-12,27,Minnesota,point,NA,1565.989230364561
-2020-07-05,8 day ahead cum death,2020-07-13,27,Minnesota,point,NA,1603.2169403135777
-2020-07-05,9 day ahead cum death,2020-07-14,27,Minnesota,point,NA,1603.9713983237743
-2020-07-05,10 day ahead cum death,2020-07-15,27,Minnesota,point,NA,1602.7561635375023
-2020-07-05,11 day ahead cum death,2020-07-16,27,Minnesota,point,NA,1616.5857410430908
-2020-07-05,12 day ahead cum death,2020-07-17,27,Minnesota,point,NA,1617.7662635445595
-2020-07-05,13 day ahead cum death,2020-07-18,27,Minnesota,point,NA,1613.402157753706
-2020-07-05,14 day ahead cum death,2020-07-19,27,Minnesota,point,NA,1616.0283530950546
-2020-07-05,1 day ahead cum death,2020-07-06,28,Mississippi,point,NA,1105.5777652561665
-2020-07-05,2 day ahead cum death,2020-07-07,28,Mississippi,point,NA,1118.4749932587147
-2020-07-05,3 day ahead cum death,2020-07-08,28,Mississippi,point,NA,1132.2673574984074
-2020-07-05,4 day ahead cum death,2020-07-09,28,Mississippi,point,NA,1146.2736816704273
-2020-07-05,5 day ahead cum death,2020-07-10,28,Mississippi,point,NA,1155.0899648070335
-2020-07-05,6 day ahead cum death,2020-07-11,28,Mississippi,point,NA,1159.9922899901867
-2020-07-05,7 day ahead cum death,2020-07-12,28,Mississippi,point,NA,1165.0843901634216
-2020-07-05,8 day ahead cum death,2020-07-13,28,Mississippi,point,NA,1157.0017012059689
-2020-07-05,9 day ahead cum death,2020-07-14,28,Mississippi,point,NA,1171.6269102692604
-2020-07-05,10 day ahead cum death,2020-07-15,28,Mississippi,point,NA,1190.1814133226871
-2020-07-05,11 day ahead cum death,2020-07-16,28,Mississippi,point,NA,1208.4440013170242
-2020-07-05,12 day ahead cum death,2020-07-17,28,Mississippi,point,NA,1221.07850882411
-2020-07-05,13 day ahead cum death,2020-07-18,28,Mississippi,point,NA,1231.032888442278
-2020-07-05,14 day ahead cum death,2020-07-19,28,Mississippi,point,NA,1241.5299349427223
-2020-07-05,1 day ahead cum death,2020-07-06,29,Missouri,point,NA,1122.6906329989433
-2020-07-05,2 day ahead cum death,2020-07-07,29,Missouri,point,NA,1125.9842264950275
-2020-07-05,3 day ahead cum death,2020-07-08,29,Missouri,point,NA,1151.6807221770287
-2020-07-05,4 day ahead cum death,2020-07-09,29,Missouri,point,NA,1159.9683859348297
-2020-07-05,5 day ahead cum death,2020-07-10,29,Missouri,point,NA,1154.966237783432
-2020-07-05,6 day ahead cum death,2020-07-11,29,Missouri,point,NA,1150.037864536047
-2020-07-05,7 day ahead cum death,2020-07-12,29,Missouri,point,NA,1153.36033269763
-2020-07-05,8 day ahead cum death,2020-07-13,29,Missouri,point,NA,1187.8618464171886
-2020-07-05,9 day ahead cum death,2020-07-14,29,Missouri,point,NA,1193.5451650619507
-2020-07-05,10 day ahead cum death,2020-07-15,29,Missouri,point,NA,1218.8918534219265
-2020-07-05,11 day ahead cum death,2020-07-16,29,Missouri,point,NA,1222.9230122864246
-2020-07-05,12 day ahead cum death,2020-07-17,29,Missouri,point,NA,1216.7395733892918
-2020-07-05,13 day ahead cum death,2020-07-18,29,Missouri,point,NA,1210.0298900008202
-2020-07-05,14 day ahead cum death,2020-07-19,29,Missouri,point,NA,1211.9734676480293
-2020-07-05,1 day ahead cum death,2020-07-06,30,Montana,point,NA,83.58043992519379
-2020-07-05,2 day ahead cum death,2020-07-07,30,Montana,point,NA,83.61520037055016
-2020-07-05,3 day ahead cum death,2020-07-08,30,Montana,point,NA,83.63090190291405
-2020-07-05,4 day ahead cum death,2020-07-09,30,Montana,point,NA,83.63530984520912
-2020-07-05,5 day ahead cum death,2020-07-10,30,Montana,point,NA,84.65976268053055
-2020-07-05,6 day ahead cum death,2020-07-11,30,Montana,point,NA,84.6510044336319
-2020-07-05,7 day ahead cum death,2020-07-12,30,Montana,point,NA,84.634311825037
-2020-07-05,8 day ahead cum death,2020-07-13,30,Montana,point,NA,99.28714019060135
-2020-07-05,9 day ahead cum death,2020-07-14,30,Montana,point,NA,99.29446068406105
-2020-07-05,10 day ahead cum death,2020-07-15,30,Montana,point,NA,99.4013019502163
-2020-07-05,11 day ahead cum death,2020-07-16,30,Montana,point,NA,99.53004860877991
-2020-07-05,12 day ahead cum death,2020-07-17,30,Montana,point,NA,101.57639688253403
-2020-07-05,13 day ahead cum death,2020-07-18,30,Montana,point,NA,101.57202208042145
-2020-07-05,14 day ahead cum death,2020-07-19,30,Montana,point,NA,101.63642659783363
-2020-07-05,1 day ahead cum death,2020-07-06,31,Nebraska,point,NA,370.79441487789154
-2020-07-05,2 day ahead cum death,2020-07-07,31,Nebraska,point,NA,377.4485023319721
-2020-07-05,3 day ahead cum death,2020-07-08,31,Nebraska,point,NA,378.25367245078087
-2020-07-05,4 day ahead cum death,2020-07-09,31,Nebraska,point,NA,382.9407334625721
-2020-07-05,5 day ahead cum death,2020-07-10,31,Nebraska,point,NA,384.6566430032253
-2020-07-05,6 day ahead cum death,2020-07-11,31,Nebraska,point,NA,385.0906609892845
-2020-07-05,7 day ahead cum death,2020-07-12,31,Nebraska,point,NA,385.11070588231087
-2020-07-05,8 day ahead cum death,2020-07-13,31,Nebraska,point,NA,408.82983389496803
-2020-07-05,9 day ahead cum death,2020-07-14,31,Nebraska,point,NA,415.1176280975342
-2020-07-05,10 day ahead cum death,2020-07-15,31,Nebraska,point,NA,414.54147627949715
-2020-07-05,11 day ahead cum death,2020-07-16,31,Nebraska,point,NA,419.4680472314358
-2020-07-05,12 day ahead cum death,2020-07-17,31,Nebraska,point,NA,419.9218074083328
-2020-07-05,13 day ahead cum death,2020-07-18,31,Nebraska,point,NA,420.11718291044235
-2020-07-05,14 day ahead cum death,2020-07-19,31,Nebraska,point,NA,420.15709406137466
-2020-07-05,1 day ahead cum death,2020-07-06,32,Nevada,point,NA,531.6627116799355
-2020-07-05,2 day ahead cum death,2020-07-07,32,Nevada,point,NA,534.7288594841957
-2020-07-05,3 day ahead cum death,2020-07-08,32,Nevada,point,NA,542.095256626606
-2020-07-05,4 day ahead cum death,2020-07-09,32,Nevada,point,NA,563.4163913726807
-2020-07-05,5 day ahead cum death,2020-07-10,32,Nevada,point,NA,566.3937904238701
-2020-07-05,6 day ahead cum death,2020-07-11,32,Nevada,point,NA,569.8210975825787
-2020-07-05,7 day ahead cum death,2020-07-12,32,Nevada,point,NA,573.8039847016335
-2020-07-05,8 day ahead cum death,2020-07-13,32,Nevada,point,NA,563.3787245154381
-2020-07-05,9 day ahead cum death,2020-07-14,32,Nevada,point,NA,567.0704543888569
-2020-07-05,10 day ahead cum death,2020-07-15,32,Nevada,point,NA,574.294914752245
-2020-07-05,11 day ahead cum death,2020-07-16,32,Nevada,point,NA,623.3069484233856
-2020-07-05,12 day ahead cum death,2020-07-17,32,Nevada,point,NA,626.296974003315
-2020-07-05,13 day ahead cum death,2020-07-18,32,Nevada,point,NA,640.6150061786175
-2020-07-05,14 day ahead cum death,2020-07-19,32,Nevada,point,NA,654.832327902317
-2020-07-05,1 day ahead cum death,2020-07-06,33,New Hampshire,point,NA,383.7100073695183
-2020-07-05,2 day ahead cum death,2020-07-07,33,New Hampshire,point,NA,387.5751171708107
-2020-07-05,3 day ahead cum death,2020-07-08,33,New Hampshire,point,NA,389.3481539487839
-2020-07-05,4 day ahead cum death,2020-07-09,33,New Hampshire,point,NA,389.7833350300789
-2020-07-05,5 day ahead cum death,2020-07-10,33,New Hampshire,point,NA,391.07033663988113
-2020-07-05,6 day ahead cum death,2020-07-11,33,New Hampshire,point,NA,392.4082596898079
-2020-07-05,7 day ahead cum death,2020-07-12,33,New Hampshire,point,NA,394.44831585884094
-2020-07-05,8 day ahead cum death,2020-07-13,33,New Hampshire,point,NA,395.24859952926636
-2020-07-05,9 day ahead cum death,2020-07-14,33,New Hampshire,point,NA,398.50829845666885
-2020-07-05,10 day ahead cum death,2020-07-15,33,New Hampshire,point,NA,400.37803798913956
-2020-07-05,11 day ahead cum death,2020-07-16,33,New Hampshire,point,NA,400.4459015727043
-2020-07-05,12 day ahead cum death,2020-07-17,33,New Hampshire,point,NA,401.5272434949875
-2020-07-05,13 day ahead cum death,2020-07-18,33,New Hampshire,point,NA,402.77929812669754
-2020-07-05,14 day ahead cum death,2020-07-19,33,New Hampshire,point,NA,404.90934216976166
-2020-07-05,1 day ahead cum death,2020-07-06,34,New Jersey,point,NA,15398.219635009766
-2020-07-05,2 day ahead cum death,2020-07-07,34,New Jersey,point,NA,15375.56467795372
-2020-07-05,3 day ahead cum death,2020-07-08,34,New Jersey,point,NA,15423.599651813507
-2020-07-05,4 day ahead cum death,2020-07-09,34,New Jersey,point,NA,15894.350629806519
-2020-07-05,5 day ahead cum death,2020-07-10,34,New Jersey,point,NA,15949.163531422615
-2020-07-05,6 day ahead cum death,2020-07-11,34,New Jersey,point,NA,15930.368562579155
-2020-07-05,7 day ahead cum death,2020-07-12,34,New Jersey,point,NA,15952.935965776443
-2020-07-05,8 day ahead cum death,2020-07-13,34,New Jersey,point,NA,16153.325192928314
-2020-07-05,9 day ahead cum death,2020-07-14,34,New Jersey,point,NA,16122.87333202362
-2020-07-05,10 day ahead cum death,2020-07-15,34,New Jersey,point,NA,16170.571350336075
-2020-07-05,11 day ahead cum death,2020-07-16,34,New Jersey,point,NA,16374.750480294228
-2020-07-05,12 day ahead cum death,2020-07-17,34,New Jersey,point,NA,16437.112724661827
-2020-07-05,13 day ahead cum death,2020-07-18,34,New Jersey,point,NA,16433.72042953968
-2020-07-05,14 day ahead cum death,2020-07-19,34,New Jersey,point,NA,16447.59712085128
-2020-07-05,1 day ahead cum death,2020-07-06,35,New Mexico,point,NA,531.0604982972145
-2020-07-05,2 day ahead cum death,2020-07-07,35,New Mexico,point,NA,534.8707306683064
-2020-07-05,3 day ahead cum death,2020-07-08,35,New Mexico,point,NA,537.2956420779228
-2020-07-05,4 day ahead cum death,2020-07-09,35,New Mexico,point,NA,541.0988636910915
-2020-07-05,5 day ahead cum death,2020-07-10,35,New Mexico,point,NA,548.2225100696087
-2020-07-05,6 day ahead cum death,2020-07-11,35,New Mexico,point,NA,549.4635604918003
-2020-07-05,7 day ahead cum death,2020-07-12,35,New Mexico,point,NA,547.7549957334995
-2020-07-05,8 day ahead cum death,2020-07-13,35,New Mexico,point,NA,553.429057776928
-2020-07-05,9 day ahead cum death,2020-07-14,35,New Mexico,point,NA,559.614212334156
-2020-07-05,10 day ahead cum death,2020-07-15,35,New Mexico,point,NA,562.4728640019894
-2020-07-05,11 day ahead cum death,2020-07-16,35,New Mexico,point,NA,569.1335552334785
-2020-07-05,12 day ahead cum death,2020-07-17,35,New Mexico,point,NA,575.5379916727543
-2020-07-05,13 day ahead cum death,2020-07-18,35,New Mexico,point,NA,577.1575321555138
-2020-07-05,14 day ahead cum death,2020-07-19,35,New Mexico,point,NA,577.3742360770702
-2020-07-05,1 day ahead cum death,2020-07-06,36,New York,point,NA,32196.80004388094
-2020-07-05,2 day ahead cum death,2020-07-07,36,New York,point,NA,32270.862881541252
-2020-07-05,3 day ahead cum death,2020-07-08,36,New York,point,NA,32263.61932501197
-2020-07-05,4 day ahead cum death,2020-07-09,36,New York,point,NA,32278.024928808212
-2020-07-05,5 day ahead cum death,2020-07-10,36,New York,point,NA,32346.188335210085
-2020-07-05,6 day ahead cum death,2020-07-11,36,New York,point,NA,32354.04202246666
-2020-07-05,7 day ahead cum death,2020-07-12,36,New York,point,NA,32404.366297513247
-2020-07-05,8 day ahead cum death,2020-07-13,36,New York,point,NA,32380.20347777009
-2020-07-05,9 day ahead cum death,2020-07-14,36,New York,point,NA,32440.590334057808
-2020-07-05,10 day ahead cum death,2020-07-15,36,New York,point,NA,32432.83596280217
-2020-07-05,11 day ahead cum death,2020-07-16,36,New York,point,NA,32449.68089222908
-2020-07-05,12 day ahead cum death,2020-07-17,36,New York,point,NA,32523.593104600906
-2020-07-05,13 day ahead cum death,2020-07-18,36,New York,point,NA,32524.074344456196
-2020-07-05,14 day ahead cum death,2020-07-19,36,New York,point,NA,32552.09891358018
-2020-07-05,1 day ahead cum death,2020-07-06,37,North Carolina,point,NA,1475.1978956460953
-2020-07-05,2 day ahead cum death,2020-07-07,37,North Carolina,point,NA,1495.2759812772274
-2020-07-05,3 day ahead cum death,2020-07-08,37,North Carolina,point,NA,1516.8053153455257
-2020-07-05,4 day ahead cum death,2020-07-09,37,North Carolina,point,NA,1526.7693256437778
-2020-07-05,5 day ahead cum death,2020-07-10,37,North Carolina,point,NA,1534.7226179540157
-2020-07-05,6 day ahead cum death,2020-07-11,37,North Carolina,point,NA,1536.229117065668
-2020-07-05,7 day ahead cum death,2020-07-12,37,North Carolina,point,NA,1537.3729324638844
-2020-07-05,8 day ahead cum death,2020-07-13,37,North Carolina,point,NA,1569.713802754879
-2020-07-05,9 day ahead cum death,2020-07-14,37,North Carolina,point,NA,1592.643276900053
-2020-07-05,10 day ahead cum death,2020-07-15,37,North Carolina,point,NA,1621.0831960439682
-2020-07-05,11 day ahead cum death,2020-07-16,37,North Carolina,point,NA,1628.6390261948109
-2020-07-05,12 day ahead cum death,2020-07-17,37,North Carolina,point,NA,1643.4187714755535
-2020-07-05,13 day ahead cum death,2020-07-18,37,North Carolina,point,NA,1643.5520776510239
-2020-07-05,14 day ahead cum death,2020-07-19,37,North Carolina,point,NA,1642.252742767334
-2020-07-05,1 day ahead cum death,2020-07-06,38,North Dakota,point,NA,138.63675725460052
-2020-07-05,2 day ahead cum death,2020-07-07,38,North Dakota,point,NA,138.5658073425293
-2020-07-05,3 day ahead cum death,2020-07-08,38,North Dakota,point,NA,139.6405892074108
-2020-07-05,4 day ahead cum death,2020-07-09,38,North Dakota,point,NA,139.47725901007652
-2020-07-05,5 day ahead cum death,2020-07-10,38,North Dakota,point,NA,139.3727351129055
-2020-07-05,6 day ahead cum death,2020-07-11,38,North Dakota,point,NA,139.232347458601
-2020-07-05,7 day ahead cum death,2020-07-12,38,North Dakota,point,NA,139.3458076417446
-2020-07-05,8 day ahead cum death,2020-07-13,38,North Dakota,point,NA,154.33482784032822
-2020-07-05,9 day ahead cum death,2020-07-14,38,North Dakota,point,NA,154.41342741250992
-2020-07-05,10 day ahead cum death,2020-07-15,38,North Dakota,point,NA,156.14613714814186
-2020-07-05,11 day ahead cum death,2020-07-16,38,North Dakota,point,NA,155.8540494441986
-2020-07-05,12 day ahead cum death,2020-07-17,38,North Dakota,point,NA,155.84405598044395
-2020-07-05,13 day ahead cum death,2020-07-18,38,North Dakota,point,NA,155.8295131623745
-2020-07-05,14 day ahead cum death,2020-07-19,38,North Dakota,point,NA,155.99211472272873
-2020-07-05,1 day ahead cum death,2020-07-06,39,Ohio,point,NA,2921.004506647587
-2020-07-05,2 day ahead cum death,2020-07-07,39,Ohio,point,NA,2968.104925364256
-2020-07-05,3 day ahead cum death,2020-07-08,39,Ohio,point,NA,2981.818142592907
-2020-07-05,4 day ahead cum death,2020-07-09,39,Ohio,point,NA,2978.727811485529
-2020-07-05,5 day ahead cum death,2020-07-10,39,Ohio,point,NA,3004.64594745636
-2020-07-05,6 day ahead cum death,2020-07-11,39,Ohio,point,NA,3005.0201784968376
-2020-07-05,7 day ahead cum death,2020-07-12,39,Ohio,point,NA,3009.637159228325
-2020-07-05,8 day ahead cum death,2020-07-13,39,Ohio,point,NA,3008.5856761932373
-2020-07-05,9 day ahead cum death,2020-07-14,39,Ohio,point,NA,3057.3684391081333
-2020-07-05,10 day ahead cum death,2020-07-15,39,Ohio,point,NA,3076.21423509717
-2020-07-05,11 day ahead cum death,2020-07-16,39,Ohio,point,NA,3069.616764187813
-2020-07-05,12 day ahead cum death,2020-07-17,39,Ohio,point,NA,3097.1880990862846
-2020-07-05,13 day ahead cum death,2020-07-18,39,Ohio,point,NA,3094.972845554352
-2020-07-05,14 day ahead cum death,2020-07-19,39,Ohio,point,NA,3104.02471229434
-2020-07-05,1 day ahead cum death,2020-07-06,40,Oklahoma,point,NA,445.85984230041504
-2020-07-05,2 day ahead cum death,2020-07-07,40,Oklahoma,point,NA,447.74181017279625
-2020-07-05,3 day ahead cum death,2020-07-08,40,Oklahoma,point,NA,450.00166204571724
-2020-07-05,4 day ahead cum death,2020-07-09,40,Oklahoma,point,NA,456.8475351333618
-2020-07-05,5 day ahead cum death,2020-07-10,40,Oklahoma,point,NA,459.4013856947422
-2020-07-05,6 day ahead cum death,2020-07-11,40,Oklahoma,point,NA,459.73990830779076
-2020-07-05,7 day ahead cum death,2020-07-12,40,Oklahoma,point,NA,459.8817560374737
-2020-07-05,8 day ahead cum death,2020-07-13,40,Oklahoma,point,NA,479.56407365202904
-2020-07-05,9 day ahead cum death,2020-07-14,40,Oklahoma,point,NA,481.57626301050186
-2020-07-05,10 day ahead cum death,2020-07-15,40,Oklahoma,point,NA,484.624558031559
-2020-07-05,11 day ahead cum death,2020-07-16,40,Oklahoma,point,NA,491.1887851059437
-2020-07-05,12 day ahead cum death,2020-07-17,40,Oklahoma,point,NA,493.89320144057274
-2020-07-05,13 day ahead cum death,2020-07-18,40,Oklahoma,point,NA,494.6519306898117
-2020-07-05,14 day ahead cum death,2020-07-19,40,Oklahoma,point,NA,494.7678042948246
-2020-07-05,1 day ahead cum death,2020-07-06,41,Oregon,point,NA,246.01741674542427
-2020-07-05,2 day ahead cum death,2020-07-07,41,Oregon,point,NA,249.69620484113693
-2020-07-05,3 day ahead cum death,2020-07-08,41,Oregon,point,NA,251.18326100707054
-2020-07-05,4 day ahead cum death,2020-07-09,41,Oregon,point,NA,251.63393685221672
-2020-07-05,5 day ahead cum death,2020-07-10,41,Oregon,point,NA,252.46041318774223
-2020-07-05,6 day ahead cum death,2020-07-11,41,Oregon,point,NA,256.65093436837196
-2020-07-05,7 day ahead cum death,2020-07-12,41,Oregon,point,NA,259.1608862578869
-2020-07-05,8 day ahead cum death,2020-07-13,41,Oregon,point,NA,268.4255296587944
-2020-07-05,9 day ahead cum death,2020-07-14,41,Oregon,point,NA,272.71363469958305
-2020-07-05,10 day ahead cum death,2020-07-15,41,Oregon,point,NA,275.6887695491314
-2020-07-05,11 day ahead cum death,2020-07-16,41,Oregon,point,NA,276.33954706788063
-2020-07-05,12 day ahead cum death,2020-07-17,41,Oregon,point,NA,275.6208228766918
-2020-07-05,13 day ahead cum death,2020-07-18,41,Oregon,point,NA,279.7990120649338
-2020-07-05,14 day ahead cum death,2020-07-19,41,Oregon,point,NA,284.5437942445278
-2020-07-05,1 day ahead cum death,2020-07-06,42,Pennsylvania,point,NA,6766.141596347094
-2020-07-05,2 day ahead cum death,2020-07-07,42,Pennsylvania,point,NA,6797.272439330816
-2020-07-05,3 day ahead cum death,2020-07-08,42,Pennsylvania,point,NA,6831.378692865372
-2020-07-05,4 day ahead cum death,2020-07-09,42,Pennsylvania,point,NA,6860.818228572607
-2020-07-05,5 day ahead cum death,2020-07-10,42,Pennsylvania,point,NA,6894.708554267883
-2020-07-05,6 day ahead cum death,2020-07-11,42,Pennsylvania,point,NA,6891.229670196772
-2020-07-05,7 day ahead cum death,2020-07-12,42,Pennsylvania,point,NA,6895.573496758938
-2020-07-05,8 day ahead cum death,2020-07-13,42,Pennsylvania,point,NA,6899.223991900682
-2020-07-05,9 day ahead cum death,2020-07-14,42,Pennsylvania,point,NA,6927.738054662943
-2020-07-05,10 day ahead cum death,2020-07-15,42,Pennsylvania,point,NA,6951.7724635005
-2020-07-05,11 day ahead cum death,2020-07-16,42,Pennsylvania,point,NA,6981.276379257441
-2020-07-05,12 day ahead cum death,2020-07-17,42,Pennsylvania,point,NA,7014.197207301855
-2020-07-05,13 day ahead cum death,2020-07-18,42,Pennsylvania,point,NA,7011.6347333192825
-2020-07-05,14 day ahead cum death,2020-07-19,42,Pennsylvania,point,NA,7015.94066208601
-2020-07-05,1 day ahead cum death,2020-07-06,44,Rhode Island,point,NA,10.055194050073624
-2020-07-05,2 day ahead cum death,2020-07-07,44,Rhode Island,point,NA,10.055194050073624
-2020-07-05,3 day ahead cum death,2020-07-08,44,Rhode Island,point,NA,10.055194050073624
-2020-07-05,4 day ahead cum death,2020-07-09,44,Rhode Island,point,NA,10.055194050073624
-2020-07-05,5 day ahead cum death,2020-07-10,44,Rhode Island,point,NA,10.093317300081253
-2020-07-05,6 day ahead cum death,2020-07-11,44,Rhode Island,point,NA,10.093317300081253
-2020-07-05,7 day ahead cum death,2020-07-12,44,Rhode Island,point,NA,10.093317300081253
-2020-07-05,8 day ahead cum death,2020-07-13,44,Rhode Island,point,NA,15.294828623533249
-2020-07-05,9 day ahead cum death,2020-07-14,44,Rhode Island,point,NA,15.294828623533249
-2020-07-05,10 day ahead cum death,2020-07-15,44,Rhode Island,point,NA,15.294828623533249
-2020-07-05,11 day ahead cum death,2020-07-16,44,Rhode Island,point,NA,15.294828623533249
-2020-07-05,12 day ahead cum death,2020-07-17,44,Rhode Island,point,NA,15.904033720493317
-2020-07-05,13 day ahead cum death,2020-07-18,44,Rhode Island,point,NA,15.904033720493317
-2020-07-05,14 day ahead cum death,2020-07-19,44,Rhode Island,point,NA,15.904033720493317
-2020-07-05,1 day ahead cum death,2020-07-06,45,South Carolina,point,NA,775.2166859209538
-2020-07-05,2 day ahead cum death,2020-07-07,45,South Carolina,point,NA,795.8890432715416
-2020-07-05,3 day ahead cum death,2020-07-08,45,South Carolina,point,NA,829.0701634287834
-2020-07-05,4 day ahead cum death,2020-07-09,45,South Carolina,point,NA,849.6050626635551
-2020-07-05,5 day ahead cum death,2020-07-10,45,South Carolina,point,NA,857.1115208268166
-2020-07-05,6 day ahead cum death,2020-07-11,45,South Carolina,point,NA,883.646578758955
-2020-07-05,7 day ahead cum death,2020-07-12,45,South Carolina,point,NA,892.0303349196911
-2020-07-05,8 day ahead cum death,2020-07-13,45,South Carolina,point,NA,847.3145089149475
-2020-07-05,9 day ahead cum death,2020-07-14,45,South Carolina,point,NA,869.7786441147327
-2020-07-05,10 day ahead cum death,2020-07-15,45,South Carolina,point,NA,909.5492499172688
-2020-07-05,11 day ahead cum death,2020-07-16,45,South Carolina,point,NA,932.8997314870358
-2020-07-05,12 day ahead cum death,2020-07-17,45,South Carolina,point,NA,947.5158596038818
-2020-07-05,13 day ahead cum death,2020-07-18,45,South Carolina,point,NA,981.2670631706715
-2020-07-05,14 day ahead cum death,2020-07-19,45,South Carolina,point,NA,991.7983048856258
-2020-07-05,1 day ahead cum death,2020-07-06,46,South Dakota,point,NA,163.8477824628353
-2020-07-05,2 day ahead cum death,2020-07-07,46,South Dakota,point,NA,163.61255887150764
-2020-07-05,3 day ahead cum death,2020-07-08,46,South Dakota,point,NA,165.56523406505585
-2020-07-05,4 day ahead cum death,2020-07-09,46,South Dakota,point,NA,168.59219807386398
-2020-07-05,5 day ahead cum death,2020-07-10,46,South Dakota,point,NA,167.86236277222633
-2020-07-05,6 day ahead cum death,2020-07-11,46,South Dakota,point,NA,168.22854182124138
-2020-07-05,7 day ahead cum death,2020-07-12,46,South Dakota,point,NA,167.95914408564568
-2020-07-05,8 day ahead cum death,2020-07-13,46,South Dakota,point,NA,183.77096024155617
-2020-07-05,9 day ahead cum death,2020-07-14,46,South Dakota,point,NA,183.38316249847412
-2020-07-05,10 day ahead cum death,2020-07-15,46,South Dakota,point,NA,185.4826343357563
-2020-07-05,11 day ahead cum death,2020-07-16,46,South Dakota,point,NA,188.60165318846703
-2020-07-05,12 day ahead cum death,2020-07-17,46,South Dakota,point,NA,188.33053091168404
-2020-07-05,13 day ahead cum death,2020-07-18,46,South Dakota,point,NA,188.7861559689045
-2020-07-05,14 day ahead cum death,2020-07-19,46,South Dakota,point,NA,188.47740536928177
-2020-07-05,1 day ahead cum death,2020-07-06,47,Tennessee,point,NA,688.708373606205
-2020-07-05,2 day ahead cum death,2020-07-07,47,Tennessee,point,NA,701.3622322380543
-2020-07-05,3 day ahead cum death,2020-07-08,47,Tennessee,point,NA,705.5339224636555
-2020-07-05,4 day ahead cum death,2020-07-09,47,Tennessee,point,NA,716.1558353602886
-2020-07-05,5 day ahead cum death,2020-07-10,47,Tennessee,point,NA,731.4044477343559
-2020-07-05,6 day ahead cum death,2020-07-11,47,Tennessee,point,NA,735.305964589119
-2020-07-05,7 day ahead cum death,2020-07-12,47,Tennessee,point,NA,742.7236813008785
-2020-07-05,8 day ahead cum death,2020-07-13,47,Tennessee,point,NA,756.7364856302738
-2020-07-05,9 day ahead cum death,2020-07-14,47,Tennessee,point,NA,782.8481145501137
-2020-07-05,10 day ahead cum death,2020-07-15,47,Tennessee,point,NA,778.0675055384636
-2020-07-05,11 day ahead cum death,2020-07-16,47,Tennessee,point,NA,790.6886729598045
-2020-07-05,12 day ahead cum death,2020-07-17,47,Tennessee,point,NA,810.6777510643005
-2020-07-05,13 day ahead cum death,2020-07-18,47,Tennessee,point,NA,820.3653032183647
-2020-07-05,14 day ahead cum death,2020-07-19,47,Tennessee,point,NA,838.3444980978966
-2020-07-05,1 day ahead cum death,2020-07-06,48,Texas,point,NA,2813.0765686631203
-2020-07-05,2 day ahead cum death,2020-07-07,48,Texas,point,NA,2858.455810844898
-2020-07-05,3 day ahead cum death,2020-07-08,48,Texas,point,NA,2917.375253736973
-2020-07-05,4 day ahead cum death,2020-07-09,48,Texas,point,NA,2989.9982270002365
-2020-07-05,5 day ahead cum death,2020-07-10,48,Texas,point,NA,3080.0635726451874
-2020-07-05,6 day ahead cum death,2020-07-11,48,Texas,point,NA,3115.9992659687996
-2020-07-05,7 day ahead cum death,2020-07-12,48,Texas,point,NA,3138.3967703580856
-2020-07-05,8 day ahead cum death,2020-07-13,48,Texas,point,NA,3260.795192927122
-2020-07-05,9 day ahead cum death,2020-07-14,48,Texas,point,NA,3341.117775887251
-2020-07-05,10 day ahead cum death,2020-07-15,48,Texas,point,NA,3413.741250962019
-2020-07-05,11 day ahead cum death,2020-07-16,48,Texas,point,NA,3484.0349873006344
-2020-07-05,12 day ahead cum death,2020-07-17,48,Texas,point,NA,3627.1160893142223
-2020-07-05,13 day ahead cum death,2020-07-18,48,Texas,point,NA,3681.780597358942
-2020-07-05,14 day ahead cum death,2020-07-19,48,Texas,point,NA,3706.8186091184616
-2020-07-05,1 day ahead cum death,2020-07-06,49,Utah,point,NA,187.34794482588768
-2020-07-05,2 day ahead cum death,2020-07-07,49,Utah,point,NA,190.02014535665512
-2020-07-05,3 day ahead cum death,2020-07-08,49,Utah,point,NA,188.98780784010887
-2020-07-05,4 day ahead cum death,2020-07-09,49,Utah,point,NA,191.6858048737049
-2020-07-05,5 day ahead cum death,2020-07-10,49,Utah,point,NA,193.7989717423916
-2020-07-05,6 day ahead cum death,2020-07-11,49,Utah,point,NA,193.84587740898132
-2020-07-05,7 day ahead cum death,2020-07-12,49,Utah,point,NA,197.08503118157387
-2020-07-05,8 day ahead cum death,2020-07-13,49,Utah,point,NA,208.1570347249508
-2020-07-05,9 day ahead cum death,2020-07-14,49,Utah,point,NA,211.06769147515297
-2020-07-05,10 day ahead cum death,2020-07-15,49,Utah,point,NA,210.19843411445618
-2020-07-05,11 day ahead cum death,2020-07-16,49,Utah,point,NA,213.21117228269577
-2020-07-05,12 day ahead cum death,2020-07-17,49,Utah,point,NA,215.0452038347721
-2020-07-05,13 day ahead cum death,2020-07-18,49,Utah,point,NA,215.23489773273468
-2020-07-05,14 day ahead cum death,2020-07-19,49,Utah,point,NA,219.51197296380997
-2020-07-05,1 day ahead cum death,2020-07-06,50,Vermont,point,NA,64.97206073999405
-2020-07-05,2 day ahead cum death,2020-07-07,50,Vermont,point,NA,64.97206073999405
-2020-07-05,3 day ahead cum death,2020-07-08,50,Vermont,point,NA,64.97646868228912
-2020-07-05,4 day ahead cum death,2020-07-09,50,Vermont,point,NA,64.89661756157875
-2020-07-05,5 day ahead cum death,2020-07-10,50,Vermont,point,NA,64.90102550387383
-2020-07-05,6 day ahead cum death,2020-07-11,50,Vermont,point,NA,64.8950802385807
-2020-07-05,7 day ahead cum death,2020-07-12,50,Vermont,point,NA,64.90102550387383
-2020-07-05,8 day ahead cum death,2020-07-13,50,Vermont,point,NA,68.88102462887764
-2020-07-05,9 day ahead cum death,2020-07-14,50,Vermont,point,NA,68.87308624386787
-2020-07-05,10 day ahead cum death,2020-07-15,50,Vermont,point,NA,68.88489171862602
-2020-07-05,11 day ahead cum death,2020-07-16,50,Vermont,point,NA,68.83390137553215
-2020-07-05,12 day ahead cum death,2020-07-17,50,Vermont,point,NA,68.83830931782722
-2020-07-05,13 day ahead cum death,2020-07-18,50,Vermont,point,NA,68.8323640525341
-2020-07-05,14 day ahead cum death,2020-07-19,50,Vermont,point,NA,68.79764306545258
-2020-07-05,1 day ahead cum death,2020-07-06,51,Virginia,point,NA,1865.3170647323132
-2020-07-05,2 day ahead cum death,2020-07-07,51,Virginia,point,NA,1890.9054423868656
-2020-07-05,3 day ahead cum death,2020-07-08,51,Virginia,point,NA,1914.259798526764
-2020-07-05,4 day ahead cum death,2020-07-09,51,Virginia,point,NA,1950.1866334974766
-2020-07-05,5 day ahead cum death,2020-07-10,51,Virginia,point,NA,1978.5501239597797
-2020-07-05,6 day ahead cum death,2020-07-11,51,Virginia,point,NA,1980.554418772459
-2020-07-05,7 day ahead cum death,2020-07-12,51,Virginia,point,NA,1987.3140904903412
-2020-07-05,8 day ahead cum death,2020-07-13,51,Virginia,point,NA,1963.0558043420315
-2020-07-05,9 day ahead cum death,2020-07-14,51,Virginia,point,NA,1989.6193942427635
-2020-07-05,10 day ahead cum death,2020-07-15,51,Virginia,point,NA,2015.4878183305264
-2020-07-05,11 day ahead cum death,2020-07-16,51,Virginia,point,NA,2051.246976941824
-2020-07-05,12 day ahead cum death,2020-07-17,51,Virginia,point,NA,2082.2021536827087
-2020-07-05,13 day ahead cum death,2020-07-18,51,Virginia,point,NA,2081.457781255245
-2020-07-05,14 day ahead cum death,2020-07-19,51,Virginia,point,NA,2084.819080501795
-2020-07-05,1 day ahead cum death,2020-07-06,53,Washington,point,NA,1381.939127177
-2020-07-05,2 day ahead cum death,2020-07-07,53,Washington,point,NA,1393.254202991724
-2020-07-05,3 day ahead cum death,2020-07-08,53,Washington,point,NA,1404.0560184121132
-2020-07-05,4 day ahead cum death,2020-07-09,53,Washington,point,NA,1406.4912392497063
-2020-07-05,5 day ahead cum death,2020-07-10,53,Washington,point,NA,1416.4607174396515
-2020-07-05,6 day ahead cum death,2020-07-11,53,Washington,point,NA,1418.2361392378807
-2020-07-05,7 day ahead cum death,2020-07-12,53,Washington,point,NA,1424.7292643785477
-2020-07-05,8 day ahead cum death,2020-07-13,53,Washington,point,NA,1431.6440318226814
-2020-07-05,9 day ahead cum death,2020-07-14,53,Washington,point,NA,1444.8620413839817
-2020-07-05,10 day ahead cum death,2020-07-15,53,Washington,point,NA,1457.9877862632275
-2020-07-05,11 day ahead cum death,2020-07-16,53,Washington,point,NA,1462.8846108913422
-2020-07-05,12 day ahead cum death,2020-07-17,53,Washington,point,NA,1474.392907768488
-2020-07-05,13 day ahead cum death,2020-07-18,53,Washington,point,NA,1475.807644456625
-2020-07-05,14 day ahead cum death,2020-07-19,53,Washington,point,NA,1485.114372342825
-2020-07-05,1 day ahead cum death,2020-07-06,54,West Virginia,point,NA,140.42872563004494
-2020-07-05,2 day ahead cum death,2020-07-07,54,West Virginia,point,NA,140.54373863339424
-2020-07-05,3 day ahead cum death,2020-07-08,54,West Virginia,point,NA,140.57203036546707
-2020-07-05,4 day ahead cum death,2020-07-09,54,West Virginia,point,NA,140.57259938120842
-2020-07-05,5 day ahead cum death,2020-07-10,54,West Virginia,point,NA,140.5985895395279
-2020-07-05,6 day ahead cum death,2020-07-11,54,West Virginia,point,NA,141.65147748589516
-2020-07-05,7 day ahead cum death,2020-07-12,54,West Virginia,point,NA,141.70651650428772
-2020-07-05,8 day ahead cum death,2020-07-13,54,West Virginia,point,NA,156.11126571893692
-2020-07-05,9 day ahead cum death,2020-07-14,54,West Virginia,point,NA,156.2334185540676
-2020-07-05,10 day ahead cum death,2020-07-15,54,West Virginia,point,NA,156.48001432418823
-2020-07-05,11 day ahead cum death,2020-07-16,54,West Virginia,point,NA,156.42923840880394
-2020-07-05,12 day ahead cum death,2020-07-17,54,West Virginia,point,NA,156.41024565696716
-2020-07-05,13 day ahead cum death,2020-07-18,54,West Virginia,point,NA,157.5470409989357
-2020-07-05,14 day ahead cum death,2020-07-19,54,West Virginia,point,NA,157.6444754898548
-2020-07-05,1 day ahead cum death,2020-07-06,55,Wisconsin,point,NA,846.9015454351902
-2020-07-05,2 day ahead cum death,2020-07-07,55,Wisconsin,point,NA,851.6682326793671
-2020-07-05,3 day ahead cum death,2020-07-08,55,Wisconsin,point,NA,852.2035743296146
-2020-07-05,4 day ahead cum death,2020-07-09,55,Wisconsin,point,NA,860.2647512853146
-2020-07-05,5 day ahead cum death,2020-07-10,55,Wisconsin,point,NA,863.7756604850292
-2020-07-05,6 day ahead cum death,2020-07-11,55,Wisconsin,point,NA,862.1924889981747
-2020-07-05,7 day ahead cum death,2020-07-12,55,Wisconsin,point,NA,862.4484956562519
-2020-07-05,8 day ahead cum death,2020-07-13,55,Wisconsin,point,NA,885.8181823194027
-2020-07-05,9 day ahead cum death,2020-07-14,55,Wisconsin,point,NA,891.0525919497013
-2020-07-05,10 day ahead cum death,2020-07-15,55,Wisconsin,point,NA,893.2661134600639
-2020-07-05,11 day ahead cum death,2020-07-16,55,Wisconsin,point,NA,899.7309480309486
-2020-07-05,12 day ahead cum death,2020-07-17,55,Wisconsin,point,NA,906.0860313177109
-2020-07-05,13 day ahead cum death,2020-07-18,55,Wisconsin,point,NA,902.1154175102711
-2020-07-05,14 day ahead cum death,2020-07-19,55,Wisconsin,point,NA,902.5870960056782
-2020-07-05,1 day ahead cum death,2020-07-06,56,Wyoming,point,NA,29.673105716705322
-2020-07-05,2 day ahead cum death,2020-07-07,56,Wyoming,point,NA,29.679050981998444
-2020-07-05,3 day ahead cum death,2020-07-08,56,Wyoming,point,NA,29.676469177007675
-2020-07-05,4 day ahead cum death,2020-07-09,56,Wyoming,point,NA,29.684177547693253
-2020-07-05,5 day ahead cum death,2020-07-10,56,Wyoming,point,NA,29.690606772899628
-2020-07-05,6 day ahead cum death,2020-07-11,56,Wyoming,point,NA,29.705228090286255
-2020-07-05,7 day ahead cum death,2020-07-12,56,Wyoming,point,NA,29.70963603258133
-2020-07-05,8 day ahead cum death,2020-07-13,56,Wyoming,point,NA,36.43091395497322
-2020-07-05,9 day ahead cum death,2020-07-14,56,Wyoming,point,NA,36.45980730652809
-2020-07-05,10 day ahead cum death,2020-07-15,56,Wyoming,point,NA,36.48896715044975
-2020-07-05,11 day ahead cum death,2020-07-16,56,Wyoming,point,NA,36.5373977124691
-2020-07-05,12 day ahead cum death,2020-07-17,56,Wyoming,point,NA,36.53816694021225
-2020-07-05,13 day ahead cum death,2020-07-18,56,Wyoming,point,NA,36.566671907901764
-2020-07-05,14 day ahead cum death,2020-07-19,56,Wyoming,point,NA,36.715534806251526
+2020-07-05,1 day ahead cum death,2020-07-06,US,US,point,NA,130049.44261315465
+2020-07-05,2 day ahead cum death,2020-07-07,US,US,point,NA,130820.40016025305
+2020-07-05,3 day ahead cum death,2020-07-08,US,US,point,NA,131517.57955351472
+2020-07-05,4 day ahead cum death,2020-07-09,US,US,point,NA,133143.3785586059
+2020-07-05,5 day ahead cum death,2020-07-10,US,US,point,NA,133834.8139398694
+2020-07-05,6 day ahead cum death,2020-07-11,US,US,point,NA,133975.4408391416
+2020-07-05,7 day ahead cum death,2020-07-12,US,US,point,NA,134371.19342261553
+2020-07-05,8 day ahead cum death,2020-07-13,US,US,point,NA,135348.1487132311
+2020-07-05,9 day ahead cum death,2020-07-14,US,US,point,NA,136255.79162284732
+2020-07-05,10 day ahead cum death,2020-07-15,US,US,point,NA,137084.12144756317
+2020-07-05,11 day ahead cum death,2020-07-16,US,US,point,NA,138368.26840361953
+2020-07-05,12 day ahead cum death,2020-07-17,US,US,point,NA,139280.75405061245
+2020-07-05,13 day ahead cum death,2020-07-18,US,US,point,NA,139590.21131637692
+2020-07-05,14 day ahead cum death,2020-07-19,US,US,point,NA,140094.2748722732
+2020-07-05,1 day ahead cum death,2020-07-06,01,Alabama,point,NA,984.6438786685467
+2020-07-05,2 day ahead cum death,2020-07-07,01,Alabama,point,NA,1009.2546600103378
+2020-07-05,3 day ahead cum death,2020-07-08,01,Alabama,point,NA,1030.5988735556602
+2020-07-05,4 day ahead cum death,2020-07-09,01,Alabama,point,NA,1047.1310460865498
+2020-07-05,5 day ahead cum death,2020-07-10,01,Alabama,point,NA,1067.798807233572
+2020-07-05,6 day ahead cum death,2020-07-11,01,Alabama,point,NA,1068.8866342008114
+2020-07-05,7 day ahead cum death,2020-07-12,01,Alabama,point,NA,1067.832574158907
+2020-07-05,8 day ahead cum death,2020-07-13,01,Alabama,point,NA,1064.906255453825
+2020-07-05,9 day ahead cum death,2020-07-14,01,Alabama,point,NA,1089.8556379973888
+2020-07-05,10 day ahead cum death,2020-07-15,01,Alabama,point,NA,1116.4063901007175
+2020-07-05,11 day ahead cum death,2020-07-16,01,Alabama,point,NA,1134.099683612585
+2020-07-05,12 day ahead cum death,2020-07-17,01,Alabama,point,NA,1162.7281051278114
+2020-07-05,13 day ahead cum death,2020-07-18,01,Alabama,point,NA,1161.4927728176117
+2020-07-05,14 day ahead cum death,2020-07-19,01,Alabama,point,NA,1162.9445914626122
+2020-07-05,1 day ahead cum death,2020-07-06,02,Alaska,point,NA,41.63737389445305
+2020-07-05,2 day ahead cum death,2020-07-07,02,Alaska,point,NA,41.72160565853119
+2020-07-05,3 day ahead cum death,2020-07-08,02,Alaska,point,NA,41.56840240955353
+2020-07-05,4 day ahead cum death,2020-07-09,02,Alaska,point,NA,41.034396439790726
+2020-07-05,5 day ahead cum death,2020-07-10,02,Alaska,point,NA,41.33364951610565
+2020-07-05,6 day ahead cum death,2020-07-11,02,Alaska,point,NA,42.54135349392891
+2020-07-05,7 day ahead cum death,2020-07-12,02,Alaska,point,NA,42.56386449933052
+2020-07-05,8 day ahead cum death,2020-07-13,02,Alaska,point,NA,48.31717002391815
+2020-07-05,9 day ahead cum death,2020-07-14,02,Alaska,point,NA,48.570697635412216
+2020-07-05,10 day ahead cum death,2020-07-15,02,Alaska,point,NA,47.86242014169693
+2020-07-05,11 day ahead cum death,2020-07-16,02,Alaska,point,NA,47.91550013422966
+2020-07-05,12 day ahead cum death,2020-07-17,02,Alaska,point,NA,48.2436920106411
+2020-07-05,13 day ahead cum death,2020-07-18,02,Alaska,point,NA,49.45743405818939
+2020-07-05,14 day ahead cum death,2020-07-19,02,Alaska,point,NA,48.926490634679794
+2020-07-05,1 day ahead cum death,2020-07-06,04,Arizona,point,NA,1832.3690881431103
+2020-07-05,2 day ahead cum death,2020-07-07,04,Arizona,point,NA,1910.1945474147797
+2020-07-05,3 day ahead cum death,2020-07-08,04,Arizona,point,NA,1995.5674943625927
+2020-07-05,4 day ahead cum death,2020-07-09,04,Arizona,point,NA,2037.4193906784058
+2020-07-05,5 day ahead cum death,2020-07-10,04,Arizona,point,NA,2076.198313742876
+2020-07-05,6 day ahead cum death,2020-07-11,04,Arizona,point,NA,2091.320324897766
+2020-07-05,7 day ahead cum death,2020-07-12,04,Arizona,point,NA,2104.1067570745945
+2020-07-05,8 day ahead cum death,2020-07-13,04,Arizona,point,NA,2107.9309762716293
+2020-07-05,9 day ahead cum death,2020-07-14,04,Arizona,point,NA,2193.565209656954
+2020-07-05,10 day ahead cum death,2020-07-15,04,Arizona,point,NA,2276.7666577100754
+2020-07-05,11 day ahead cum death,2020-07-16,04,Arizona,point,NA,2317.966526776552
+2020-07-05,12 day ahead cum death,2020-07-17,04,Arizona,point,NA,2367.5794339478016
+2020-07-05,13 day ahead cum death,2020-07-18,04,Arizona,point,NA,2383.5533069074154
+2020-07-05,14 day ahead cum death,2020-07-19,04,Arizona,point,NA,2435.0885560512543
+2020-07-05,1 day ahead cum death,2020-07-06,05,Arkansas,point,NA,340.98308250308037
+2020-07-05,2 day ahead cum death,2020-07-07,05,Arkansas,point,NA,345.54384756088257
+2020-07-05,3 day ahead cum death,2020-07-08,05,Arkansas,point,NA,351.4841425716877
+2020-07-05,4 day ahead cum death,2020-07-09,05,Arkansas,point,NA,353.297190874815
+2020-07-05,5 day ahead cum death,2020-07-10,05,Arkansas,point,NA,355.4661692082882
+2020-07-05,6 day ahead cum death,2020-07-11,05,Arkansas,point,NA,356.9373878836632
+2020-07-05,7 day ahead cum death,2020-07-12,05,Arkansas,point,NA,357.26382982730865
+2020-07-05,8 day ahead cum death,2020-07-13,05,Arkansas,point,NA,383.019926071167
+2020-07-05,9 day ahead cum death,2020-07-14,05,Arkansas,point,NA,389.763329654932
+2020-07-05,10 day ahead cum death,2020-07-15,05,Arkansas,point,NA,394.14875596761703
+2020-07-05,11 day ahead cum death,2020-07-16,05,Arkansas,point,NA,397.7972604930401
+2020-07-05,12 day ahead cum death,2020-07-17,05,Arkansas,point,NA,399.70684480667114
+2020-07-05,13 day ahead cum death,2020-07-18,05,Arkansas,point,NA,400.59894159436226
+2020-07-05,14 day ahead cum death,2020-07-19,05,Arkansas,point,NA,401.63226544857025
+2020-07-05,1 day ahead cum death,2020-07-06,06,California,point,NA,6458.394823282957
+2020-07-05,2 day ahead cum death,2020-07-07,06,California,point,NA,6565.413507401943
+2020-07-05,3 day ahead cum death,2020-07-08,06,California,point,NA,6655.622893154621
+2020-07-05,4 day ahead cum death,2020-07-09,06,California,point,NA,6797.7139313519
+2020-07-05,5 day ahead cum death,2020-07-10,06,California,point,NA,6866.275247424841
+2020-07-05,6 day ahead cum death,2020-07-11,06,California,point,NA,6885.934067130089
+2020-07-05,7 day ahead cum death,2020-07-12,06,California,point,NA,6917.128652274609
+2020-07-05,8 day ahead cum death,2020-07-13,06,California,point,NA,7014.878289461136
+2020-07-05,9 day ahead cum death,2020-07-14,06,California,point,NA,7171.979427874088
+2020-07-05,10 day ahead cum death,2020-07-15,06,California,point,NA,7278.7443143725395
+2020-07-05,11 day ahead cum death,2020-07-16,06,California,point,NA,7457.001192748547
+2020-07-05,12 day ahead cum death,2020-07-17,06,California,point,NA,7549.336787700653
+2020-07-05,13 day ahead cum death,2020-07-18,06,California,point,NA,7601.631762266159
+2020-07-05,14 day ahead cum death,2020-07-19,06,California,point,NA,7635.999447584152
+2020-07-05,1 day ahead cum death,2020-07-06,08,Colorado,point,NA,1753.053911447525
+2020-07-05,2 day ahead cum death,2020-07-07,08,Colorado,point,NA,1758.641661375761
+2020-07-05,3 day ahead cum death,2020-07-08,08,Colorado,point,NA,1763.399980634451
+2020-07-05,4 day ahead cum death,2020-07-09,08,Colorado,point,NA,1764.8707084357738
+2020-07-05,5 day ahead cum death,2020-07-10,08,Colorado,point,NA,1764.4114268422127
+2020-07-05,6 day ahead cum death,2020-07-11,08,Colorado,point,NA,1761.7639595270157
+2020-07-05,7 day ahead cum death,2020-07-12,08,Colorado,point,NA,1762.0670770406723
+2020-07-05,8 day ahead cum death,2020-07-13,08,Colorado,point,NA,1787.0278180539608
+2020-07-05,9 day ahead cum death,2020-07-14,08,Colorado,point,NA,1790.840092241764
+2020-07-05,10 day ahead cum death,2020-07-15,08,Colorado,point,NA,1795.6434544920921
+2020-07-05,11 day ahead cum death,2020-07-16,08,Colorado,point,NA,1799.4263480305672
+2020-07-05,12 day ahead cum death,2020-07-17,08,Colorado,point,NA,1801.3408724367619
+2020-07-05,13 day ahead cum death,2020-07-18,08,Colorado,point,NA,1799.0807083547115
+2020-07-05,14 day ahead cum death,2020-07-19,08,Colorado,point,NA,1799.5004760026932
+2020-07-05,1 day ahead cum death,2020-07-06,09,Connecticut,point,NA,4366.630863547325
+2020-07-05,2 day ahead cum death,2020-07-07,09,Connecticut,point,NA,4367.98269239068
+2020-07-05,3 day ahead cum death,2020-07-08,09,Connecticut,point,NA,4365.784315288067
+2020-07-05,4 day ahead cum death,2020-07-09,09,Connecticut,point,NA,4361.378509521484
+2020-07-05,5 day ahead cum death,2020-07-10,09,Connecticut,point,NA,4369.20157033205
+2020-07-05,6 day ahead cum death,2020-07-11,09,Connecticut,point,NA,4366.047164618969
+2020-07-05,7 day ahead cum death,2020-07-12,09,Connecticut,point,NA,4362.99205160141
+2020-07-05,8 day ahead cum death,2020-07-13,09,Connecticut,point,NA,4393.647675096989
+2020-07-05,9 day ahead cum death,2020-07-14,09,Connecticut,point,NA,4393.2830791175365
+2020-07-05,10 day ahead cum death,2020-07-15,09,Connecticut,point,NA,4388.139922857285
+2020-07-05,11 day ahead cum death,2020-07-16,09,Connecticut,point,NA,4382.317642569542
+2020-07-05,12 day ahead cum death,2020-07-17,09,Connecticut,point,NA,4388.540245175362
+2020-07-05,13 day ahead cum death,2020-07-18,09,Connecticut,point,NA,4385.385842055082
+2020-07-05,14 day ahead cum death,2020-07-19,09,Connecticut,point,NA,4379.192279011011
+2020-07-05,1 day ahead cum death,2020-07-06,10,Delaware,point,NA,527.0559797286987
+2020-07-05,2 day ahead cum death,2020-07-07,10,Delaware,point,NA,545.0499939918518
+2020-07-05,3 day ahead cum death,2020-07-08,10,Delaware,point,NA,534.640009522438
+2020-07-05,4 day ahead cum death,2020-07-09,10,Delaware,point,NA,533.546642780304
+2020-07-05,5 day ahead cum death,2020-07-10,10,Delaware,point,NA,537.0220353603363
+2020-07-05,6 day ahead cum death,2020-07-11,10,Delaware,point,NA,536.4581363201141
+2020-07-05,7 day ahead cum death,2020-07-12,10,Delaware,point,NA,534.7985985279083
+2020-07-05,8 day ahead cum death,2020-07-13,10,Delaware,point,NA,549.5597813129425
+2020-07-05,9 day ahead cum death,2020-07-14,10,Delaware,point,NA,565.9121668338776
+2020-07-05,10 day ahead cum death,2020-07-15,10,Delaware,point,NA,554.4554971456528
+2020-07-05,11 day ahead cum death,2020-07-16,10,Delaware,point,NA,552.2689411640167
+2020-07-05,12 day ahead cum death,2020-07-17,10,Delaware,point,NA,555.7877295017242
+2020-07-05,13 day ahead cum death,2020-07-18,10,Delaware,point,NA,555.2238304615021
+2020-07-05,14 day ahead cum death,2020-07-19,10,Delaware,point,NA,553.7042515277863
+2020-07-05,1 day ahead cum death,2020-07-06,12,Florida,point,NA,3815.684876739979
+2020-07-05,2 day ahead cum death,2020-07-07,12,Florida,point,NA,3872.29706710577
+2020-07-05,3 day ahead cum death,2020-07-08,12,Florida,point,NA,3949.25812587142
+2020-07-05,4 day ahead cum death,2020-07-09,12,Florida,point,NA,4035.9163171350956
+2020-07-05,5 day ahead cum death,2020-07-10,12,Florida,point,NA,4135.973132669926
+2020-07-05,6 day ahead cum death,2020-07-11,12,Florida,point,NA,4164.129671066999
+2020-07-05,7 day ahead cum death,2020-07-12,12,Florida,point,NA,4252.520405560732
+2020-07-05,8 day ahead cum death,2020-07-13,12,Florida,point,NA,4350.9530518352985
+2020-07-05,9 day ahead cum death,2020-07-14,12,Florida,point,NA,4415.366267234087
+2020-07-05,10 day ahead cum death,2020-07-15,12,Florida,point,NA,4533.064998716116
+2020-07-05,11 day ahead cum death,2020-07-16,12,Florida,point,NA,4657.47089111805
+2020-07-05,12 day ahead cum death,2020-07-17,12,Florida,point,NA,4804.943459808826
+2020-07-05,13 day ahead cum death,2020-07-18,12,Florida,point,NA,4906.19792303443
+2020-07-05,14 day ahead cum death,2020-07-19,12,Florida,point,NA,5031.268565684557
+2020-07-05,1 day ahead cum death,2020-07-06,13,Georgia,point,NA,2889.5052199065685
+2020-07-05,2 day ahead cum death,2020-07-07,13,Georgia,point,NA,2912.55728623271
+2020-07-05,3 day ahead cum death,2020-07-08,13,Georgia,point,NA,2933.089300185442
+2020-07-05,4 day ahead cum death,2020-07-09,13,Georgia,point,NA,2952.277754276991
+2020-07-05,5 day ahead cum death,2020-07-10,13,Georgia,point,NA,2954.8194858133793
+2020-07-05,6 day ahead cum death,2020-07-11,13,Georgia,point,NA,2951.010200202465
+2020-07-05,7 day ahead cum death,2020-07-12,13,Georgia,point,NA,2955.421546012163
+2020-07-05,8 day ahead cum death,2020-07-13,13,Georgia,point,NA,3020.2107062339783
+2020-07-05,9 day ahead cum death,2020-07-14,13,Georgia,point,NA,3050.307147294283
+2020-07-05,10 day ahead cum death,2020-07-15,13,Georgia,point,NA,3069.9646236896515
+2020-07-05,11 day ahead cum death,2020-07-16,13,Georgia,point,NA,3056.7888203561306
+2020-07-05,12 day ahead cum death,2020-07-17,13,Georgia,point,NA,3068.2312168478966
+2020-07-05,13 day ahead cum death,2020-07-18,13,Georgia,point,NA,3082.7855495214462
+2020-07-05,14 day ahead cum death,2020-07-19,13,Georgia,point,NA,3090.7303532660007
+2020-07-05,1 day ahead cum death,2020-07-06,16,Idaho,point,NA,132.06654807925224
+2020-07-05,2 day ahead cum death,2020-07-07,16,Idaho,point,NA,133.31425786018372
+2020-07-05,3 day ahead cum death,2020-07-08,16,Idaho,point,NA,133.64630073308945
+2020-07-05,4 day ahead cum death,2020-07-09,16,Idaho,point,NA,134.01820194721222
+2020-07-05,5 day ahead cum death,2020-07-10,16,Idaho,point,NA,135.1149005293846
+2020-07-05,6 day ahead cum death,2020-07-11,16,Idaho,point,NA,135.8246824145317
+2020-07-05,7 day ahead cum death,2020-07-12,16,Idaho,point,NA,136.42437213659286
+2020-07-05,8 day ahead cum death,2020-07-13,16,Idaho,point,NA,146.14609465003014
+2020-07-05,9 day ahead cum death,2020-07-14,16,Idaho,point,NA,148.51819396018982
+2020-07-05,10 day ahead cum death,2020-07-15,16,Idaho,point,NA,148.99273705482483
+2020-07-05,11 day ahead cum death,2020-07-16,16,Idaho,point,NA,151.45984053611755
+2020-07-05,12 day ahead cum death,2020-07-17,16,Idaho,point,NA,152.60213381052017
+2020-07-05,13 day ahead cum death,2020-07-18,16,Idaho,point,NA,154.66883772611618
+2020-07-05,14 day ahead cum death,2020-07-19,16,Idaho,point,NA,156.35992056131363
+2020-07-05,1 day ahead cum death,2020-07-06,17,Illinois,point,NA,7121.892374157906
+2020-07-05,2 day ahead cum death,2020-07-07,17,Illinois,point,NA,7135.049437999725
+2020-07-05,3 day ahead cum death,2020-07-08,17,Illinois,point,NA,7160.370006650686
+2020-07-05,4 day ahead cum death,2020-07-09,17,Illinois,point,NA,7225.033224195242
+2020-07-05,5 day ahead cum death,2020-07-10,17,Illinois,point,NA,7243.172558665276
+2020-07-05,6 day ahead cum death,2020-07-11,17,Illinois,point,NA,7244.549308538437
+2020-07-05,7 day ahead cum death,2020-07-12,17,Illinois,point,NA,7256.557509154081
+2020-07-05,8 day ahead cum death,2020-07-13,17,Illinois,point,NA,7313.489410042763
+2020-07-05,9 day ahead cum death,2020-07-14,17,Illinois,point,NA,7326.4960089325905
+2020-07-05,10 day ahead cum death,2020-07-15,17,Illinois,point,NA,7346.250331282616
+2020-07-05,11 day ahead cum death,2020-07-16,17,Illinois,point,NA,7403.4166033267975
+2020-07-05,12 day ahead cum death,2020-07-17,17,Illinois,point,NA,7428.014844179153
+2020-07-05,13 day ahead cum death,2020-07-18,17,Illinois,point,NA,7439.56053391099
+2020-07-05,14 day ahead cum death,2020-07-19,17,Illinois,point,NA,7455.408664137125
+2020-07-05,1 day ahead cum death,2020-07-06,18,Indiana,point,NA,2514.609194457531
+2020-07-05,2 day ahead cum death,2020-07-07,18,Indiana,point,NA,2526.498030900955
+2020-07-05,3 day ahead cum death,2020-07-08,18,Indiana,point,NA,2528.949541091919
+2020-07-05,4 day ahead cum death,2020-07-09,18,Indiana,point,NA,2541.6855737268925
+2020-07-05,5 day ahead cum death,2020-07-10,18,Indiana,point,NA,2562.7320167422295
+2020-07-05,6 day ahead cum death,2020-07-11,18,Indiana,point,NA,2565.734399110079
+2020-07-05,7 day ahead cum death,2020-07-12,18,Indiana,point,NA,2574.779062718153
+2020-07-05,8 day ahead cum death,2020-07-13,18,Indiana,point,NA,2573.577277123928
+2020-07-05,9 day ahead cum death,2020-07-14,18,Indiana,point,NA,2588.586742222309
+2020-07-05,10 day ahead cum death,2020-07-15,18,Indiana,point,NA,2587.4912063479424
+2020-07-05,11 day ahead cum death,2020-07-16,18,Indiana,point,NA,2602.097708761692
+2020-07-05,12 day ahead cum death,2020-07-17,18,Indiana,point,NA,2627.9673642516136
+2020-07-05,13 day ahead cum death,2020-07-18,18,Indiana,point,NA,2626.7864984571934
+2020-07-05,14 day ahead cum death,2020-07-19,18,Indiana,point,NA,2638.137580215931
+2020-07-05,1 day ahead cum death,2020-07-06,19,Iowa,point,NA,788.834143191576
+2020-07-05,2 day ahead cum death,2020-07-07,19,Iowa,point,NA,793.7449512779713
+2020-07-05,3 day ahead cum death,2020-07-08,19,Iowa,point,NA,794.1691102981567
+2020-07-05,4 day ahead cum death,2020-07-09,19,Iowa,point,NA,794.6659977734089
+2020-07-05,5 day ahead cum death,2020-07-10,19,Iowa,point,NA,797.3938327133656
+2020-07-05,6 day ahead cum death,2020-07-11,19,Iowa,point,NA,795.9235154390335
+2020-07-05,7 day ahead cum death,2020-07-12,19,Iowa,point,NA,796.9724068641663
+2020-07-05,8 day ahead cum death,2020-07-13,19,Iowa,point,NA,823.7338330745697
+2020-07-05,9 day ahead cum death,2020-07-14,19,Iowa,point,NA,829.2213451564312
+2020-07-05,10 day ahead cum death,2020-07-15,19,Iowa,point,NA,829.3573041558266
+2020-07-05,11 day ahead cum death,2020-07-16,19,Iowa,point,NA,831.0445398390293
+2020-07-05,12 day ahead cum death,2020-07-17,19,Iowa,point,NA,833.8112411499023
+2020-07-05,13 day ahead cum death,2020-07-18,19,Iowa,point,NA,834.0539679527283
+2020-07-05,14 day ahead cum death,2020-07-19,19,Iowa,point,NA,835.7580741643906
+2020-07-05,1 day ahead cum death,2020-07-06,20,Kansas,point,NA,374.9020554423332
+2020-07-05,2 day ahead cum death,2020-07-07,20,Kansas,point,NA,376.2092517018318
+2020-07-05,3 day ahead cum death,2020-07-08,20,Kansas,point,NA,380.00532603263855
+2020-07-05,4 day ahead cum death,2020-07-09,20,Kansas,point,NA,382.9693950712681
+2020-07-05,5 day ahead cum death,2020-07-10,20,Kansas,point,NA,385.9537445306778
+2020-07-05,6 day ahead cum death,2020-07-11,20,Kansas,point,NA,386.50574231147766
+2020-07-05,7 day ahead cum death,2020-07-12,20,Kansas,point,NA,386.64557933807373
+2020-07-05,8 day ahead cum death,2020-07-13,20,Kansas,point,NA,402.17913034558296
+2020-07-05,9 day ahead cum death,2020-07-14,20,Kansas,point,NA,404.35016199946404
+2020-07-05,10 day ahead cum death,2020-07-15,20,Kansas,point,NA,408.05314779281616
+2020-07-05,11 day ahead cum death,2020-07-16,20,Kansas,point,NA,413.98130321502686
+2020-07-05,12 day ahead cum death,2020-07-17,20,Kansas,point,NA,415.3264834880829
+2020-07-05,13 day ahead cum death,2020-07-18,20,Kansas,point,NA,417.63128104805946
+2020-07-05,14 day ahead cum death,2020-07-19,20,Kansas,point,NA,418.49040642380714
+2020-07-05,1 day ahead cum death,2020-07-06,21,Kentucky,point,NA,656.1454580426216
+2020-07-05,2 day ahead cum death,2020-07-07,21,Kentucky,point,NA,660.9215033650398
+2020-07-05,3 day ahead cum death,2020-07-08,21,Kentucky,point,NA,668.6408545076847
+2020-07-05,4 day ahead cum death,2020-07-09,21,Kentucky,point,NA,675.7571589946747
+2020-07-05,5 day ahead cum death,2020-07-10,21,Kentucky,point,NA,679.9618223011494
+2020-07-05,6 day ahead cum death,2020-07-11,21,Kentucky,point,NA,678.738412886858
+2020-07-05,7 day ahead cum death,2020-07-12,21,Kentucky,point,NA,678.7952691018581
+2020-07-05,8 day ahead cum death,2020-07-13,21,Kentucky,point,NA,690.5664623081684
+2020-07-05,9 day ahead cum death,2020-07-14,21,Kentucky,point,NA,696.6719564497471
+2020-07-05,10 day ahead cum death,2020-07-15,21,Kentucky,point,NA,704.7122627198696
+2020-07-05,11 day ahead cum death,2020-07-16,21,Kentucky,point,NA,711.8703433275223
+2020-07-05,12 day ahead cum death,2020-07-17,21,Kentucky,point,NA,716.685861736536
+2020-07-05,13 day ahead cum death,2020-07-18,21,Kentucky,point,NA,716.1253621280193
+2020-07-05,14 day ahead cum death,2020-07-19,21,Kentucky,point,NA,716.922272413969
+2020-07-05,1 day ahead cum death,2020-07-06,22,Louisiana,point,NA,3174.0400936603546
+2020-07-05,2 day ahead cum death,2020-07-07,22,Louisiana,point,NA,3199.7923548817635
+2020-07-05,3 day ahead cum death,2020-07-08,22,Louisiana,point,NA,3218.761242389679
+2020-07-05,4 day ahead cum death,2020-07-09,22,Louisiana,point,NA,3238.442024320364
+2020-07-05,5 day ahead cum death,2020-07-10,22,Louisiana,point,NA,3264.04566141963
+2020-07-05,6 day ahead cum death,2020-07-11,22,Louisiana,point,NA,3258.0241960287094
+2020-07-05,7 day ahead cum death,2020-07-12,22,Louisiana,point,NA,3273.7905429899693
+2020-07-05,8 day ahead cum death,2020-07-13,22,Louisiana,point,NA,3265.110102415085
+2020-07-05,9 day ahead cum death,2020-07-14,22,Louisiana,point,NA,3289.91124945879
+2020-07-05,10 day ahead cum death,2020-07-15,22,Louisiana,point,NA,3309.395782083273
+2020-07-05,11 day ahead cum death,2020-07-16,22,Louisiana,point,NA,3339.7105142772198
+2020-07-05,12 day ahead cum death,2020-07-17,22,Louisiana,point,NA,3370.111901819706
+2020-07-05,13 day ahead cum death,2020-07-18,22,Louisiana,point,NA,3369.4200336635113
+2020-07-05,14 day ahead cum death,2020-07-19,22,Louisiana,point,NA,3389.5341805815697
+2020-07-05,1 day ahead cum death,2020-07-06,23,Maine,point,NA,114.47777065634727
+2020-07-05,2 day ahead cum death,2020-07-07,23,Maine,point,NA,114.59336531162262
+2020-07-05,3 day ahead cum death,2020-07-08,23,Maine,point,NA,114.55766892433167
+2020-07-05,4 day ahead cum death,2020-07-09,23,Maine,point,NA,114.55591961741447
+2020-07-05,5 day ahead cum death,2020-07-10,23,Maine,point,NA,114.60382297635078
+2020-07-05,6 day ahead cum death,2020-07-11,23,Maine,point,NA,116.79634088277817
+2020-07-05,7 day ahead cum death,2020-07-12,23,Maine,point,NA,119.45105177164078
+2020-07-05,8 day ahead cum death,2020-07-13,23,Maine,point,NA,118.75546038150787
+2020-07-05,9 day ahead cum death,2020-07-14,23,Maine,point,NA,118.99246799945831
+2020-07-05,10 day ahead cum death,2020-07-15,23,Maine,point,NA,118.9237992465496
+2020-07-05,11 day ahead cum death,2020-07-16,23,Maine,point,NA,118.95841786265373
+2020-07-05,12 day ahead cum death,2020-07-17,23,Maine,point,NA,119.0282761156559
+2020-07-05,13 day ahead cum death,2020-07-18,23,Maine,point,NA,121.16096323728561
+2020-07-05,14 day ahead cum death,2020-07-19,23,Maine,point,NA,123.57802668213844
+2020-07-05,1 day ahead cum death,2020-07-06,24,Maryland,point,NA,3237.5413778424263
+2020-07-05,2 day ahead cum death,2020-07-07,24,Maryland,point,NA,3243.683818012476
+2020-07-05,3 day ahead cum death,2020-07-08,24,Maryland,point,NA,3260.6808193325996
+2020-07-05,4 day ahead cum death,2020-07-09,24,Maryland,point,NA,3262.8403862416744
+2020-07-05,5 day ahead cum death,2020-07-10,24,Maryland,point,NA,3270.5671370327473
+2020-07-05,6 day ahead cum death,2020-07-11,24,Maryland,point,NA,3281.539480894804
+2020-07-05,7 day ahead cum death,2020-07-12,24,Maryland,point,NA,3283.7112113535404
+2020-07-05,8 day ahead cum death,2020-07-13,24,Maryland,point,NA,3304.9601273834705
+2020-07-05,9 day ahead cum death,2020-07-14,24,Maryland,point,NA,3309.8734497725964
+2020-07-05,10 day ahead cum death,2020-07-15,24,Maryland,point,NA,3327.778619170189
+2020-07-05,11 day ahead cum death,2020-07-16,24,Maryland,point,NA,3327.0513174831867
+2020-07-05,12 day ahead cum death,2020-07-17,24,Maryland,point,NA,3332.1214067935944
+2020-07-05,13 day ahead cum death,2020-07-18,24,Maryland,point,NA,3343.5163916647434
+2020-07-05,14 day ahead cum death,2020-07-19,24,Maryland,point,NA,3345.7489230036736
+2020-07-05,1 day ahead cum death,2020-07-06,25,Massachusetts,point,NA,8244.735233664513
+2020-07-05,2 day ahead cum death,2020-07-07,25,Massachusetts,point,NA,8210.385603904724
+2020-07-05,3 day ahead cum death,2020-07-08,25,Massachusetts,point,NA,8210.668144643307
+2020-07-05,4 day ahead cum death,2020-07-09,25,Massachusetts,point,NA,8281.686503350735
+2020-07-05,5 day ahead cum death,2020-07-10,25,Massachusetts,point,NA,8287.99562612176
+2020-07-05,6 day ahead cum death,2020-07-11,25,Massachusetts,point,NA,8309.842448681593
+2020-07-05,7 day ahead cum death,2020-07-12,25,Massachusetts,point,NA,8316.071396529675
+2020-07-05,8 day ahead cum death,2020-07-13,25,Massachusetts,point,NA,8395.091892242432
+2020-07-05,9 day ahead cum death,2020-07-14,25,Massachusetts,point,NA,8339.745432257652
+2020-07-05,10 day ahead cum death,2020-07-15,25,Massachusetts,point,NA,8339.749343425035
+2020-07-05,11 day ahead cum death,2020-07-16,25,Massachusetts,point,NA,8421.3981936872
+2020-07-05,12 day ahead cum death,2020-07-17,25,Massachusetts,point,NA,8401.919327110052
+2020-07-05,13 day ahead cum death,2020-07-18,25,Massachusetts,point,NA,8420.847882419825
+2020-07-05,14 day ahead cum death,2020-07-19,25,Massachusetts,point,NA,8418.185161471367
+2020-07-05,1 day ahead cum death,2020-07-06,26,Michigan,point,NA,6165.001280128956
+2020-07-05,2 day ahead cum death,2020-07-07,26,Michigan,point,NA,6198.798644214869
+2020-07-05,3 day ahead cum death,2020-07-08,26,Michigan,point,NA,6202.31357562542
+2020-07-05,4 day ahead cum death,2020-07-09,26,Michigan,point,NA,6216.641833484173
+2020-07-05,5 day ahead cum death,2020-07-10,26,Michigan,point,NA,6219.727872759104
+2020-07-05,6 day ahead cum death,2020-07-11,26,Michigan,point,NA,6218.558417648077
+2020-07-05,7 day ahead cum death,2020-07-12,26,Michigan,point,NA,6219.016951024532
+2020-07-05,8 day ahead cum death,2020-07-13,26,Michigan,point,NA,6217.1258209347725
+2020-07-05,9 day ahead cum death,2020-07-14,26,Michigan,point,NA,6273.652869403362
+2020-07-05,10 day ahead cum death,2020-07-15,26,Michigan,point,NA,6278.166017740965
+2020-07-05,11 day ahead cum death,2020-07-16,26,Michigan,point,NA,6287.737302273512
+2020-07-05,12 day ahead cum death,2020-07-17,26,Michigan,point,NA,6297.446681827307
+2020-07-05,13 day ahead cum death,2020-07-18,26,Michigan,point,NA,6281.269683599472
+2020-07-05,14 day ahead cum death,2020-07-19,26,Michigan,point,NA,6284.140459954739
+2020-07-05,1 day ahead cum death,2020-07-06,27,Minnesota,point,NA,1540.0783776640892
+2020-07-05,2 day ahead cum death,2020-07-07,27,Minnesota,point,NA,1544.8951261341572
+2020-07-05,3 day ahead cum death,2020-07-08,27,Minnesota,point,NA,1545.7497195601463
+2020-07-05,4 day ahead cum death,2020-07-09,27,Minnesota,point,NA,1560.1677026748657
+2020-07-05,5 day ahead cum death,2020-07-10,27,Minnesota,point,NA,1562.5970455110073
+2020-07-05,6 day ahead cum death,2020-07-11,27,Minnesota,point,NA,1559.0787362158298
+2020-07-05,7 day ahead cum death,2020-07-12,27,Minnesota,point,NA,1563.0842336416245
+2020-07-05,8 day ahead cum death,2020-07-13,27,Minnesota,point,NA,1593.893971323967
+2020-07-05,9 day ahead cum death,2020-07-14,27,Minnesota,point,NA,1596.645233899355
+2020-07-05,10 day ahead cum death,2020-07-15,27,Minnesota,point,NA,1597.3573887646198
+2020-07-05,11 day ahead cum death,2020-07-16,27,Minnesota,point,NA,1611.261309683323
+2020-07-05,12 day ahead cum death,2020-07-17,27,Minnesota,point,NA,1612.871693700552
+2020-07-05,13 day ahead cum death,2020-07-18,27,Minnesota,point,NA,1608.3376885652542
+2020-07-05,14 day ahead cum death,2020-07-19,27,Minnesota,point,NA,1611.216455847025
+2020-07-05,1 day ahead cum death,2020-07-06,28,Mississippi,point,NA,1112.8652996718884
+2020-07-05,2 day ahead cum death,2020-07-07,28,Mississippi,point,NA,1125.1907781362534
+2020-07-05,3 day ahead cum death,2020-07-08,28,Mississippi,point,NA,1146.2259503602982
+2020-07-05,4 day ahead cum death,2020-07-09,28,Mississippi,point,NA,1157.3653568923473
+2020-07-05,5 day ahead cum death,2020-07-10,28,Mississippi,point,NA,1162.624208331108
+2020-07-05,6 day ahead cum death,2020-07-11,28,Mississippi,point,NA,1167.9601452350616
+2020-07-05,7 day ahead cum death,2020-07-12,28,Mississippi,point,NA,1172.4152762591839
+2020-07-05,8 day ahead cum death,2020-07-13,28,Mississippi,point,NA,1172.2681830525398
+2020-07-05,9 day ahead cum death,2020-07-14,28,Mississippi,point,NA,1186.8674986362457
+2020-07-05,10 day ahead cum death,2020-07-15,28,Mississippi,point,NA,1212.8505228757858
+2020-07-05,11 day ahead cum death,2020-07-16,28,Mississippi,point,NA,1228.2136752009392
+2020-07-05,12 day ahead cum death,2020-07-17,28,Mississippi,point,NA,1238.7937584221363
+2020-07-05,13 day ahead cum death,2020-07-18,28,Mississippi,point,NA,1251.1361846923828
+2020-07-05,14 day ahead cum death,2020-07-19,28,Mississippi,point,NA,1261.6457374691963
+2020-07-05,1 day ahead cum death,2020-07-06,29,Missouri,point,NA,1108.690776437521
+2020-07-05,2 day ahead cum death,2020-07-07,29,Missouri,point,NA,1120.1193385720253
+2020-07-05,3 day ahead cum death,2020-07-08,29,Missouri,point,NA,1159.3237502872944
+2020-07-05,4 day ahead cum death,2020-07-09,29,Missouri,point,NA,1171.3969819545746
+2020-07-05,5 day ahead cum death,2020-07-10,29,Missouri,point,NA,1136.731811285019
+2020-07-05,6 day ahead cum death,2020-07-11,29,Missouri,point,NA,1135.789579063654
+2020-07-05,7 day ahead cum death,2020-07-12,29,Missouri,point,NA,1139.169653058052
+2020-07-05,8 day ahead cum death,2020-07-13,29,Missouri,point,NA,1160.7155040502548
+2020-07-05,9 day ahead cum death,2020-07-14,29,Missouri,point,NA,1175.1293876469135
+2020-07-05,10 day ahead cum death,2020-07-15,29,Missouri,point,NA,1221.7745012938976
+2020-07-05,11 day ahead cum death,2020-07-16,29,Missouri,point,NA,1231.884694904089
+2020-07-05,12 day ahead cum death,2020-07-17,29,Missouri,point,NA,1193.8373802900314
+2020-07-05,13 day ahead cum death,2020-07-18,29,Missouri,point,NA,1190.1883506178856
+2020-07-05,14 day ahead cum death,2020-07-19,29,Missouri,point,NA,1192.0203579962254
+2020-07-05,1 day ahead cum death,2020-07-06,30,Montana,point,NA,74.81371435523033
+2020-07-05,2 day ahead cum death,2020-07-07,30,Montana,point,NA,74.78667518496513
+2020-07-05,3 day ahead cum death,2020-07-08,30,Montana,point,NA,74.82223501801491
+2020-07-05,4 day ahead cum death,2020-07-09,30,Montana,point,NA,74.90312269330025
+2020-07-05,5 day ahead cum death,2020-07-10,30,Montana,point,NA,76.03621527552605
+2020-07-05,6 day ahead cum death,2020-07-11,30,Montana,point,NA,76.01047930121422
+2020-07-05,7 day ahead cum death,2020-07-12,30,Montana,point,NA,76.0209923684597
+2020-07-05,8 day ahead cum death,2020-07-13,30,Montana,point,NA,81.89432129263878
+2020-07-05,9 day ahead cum death,2020-07-14,30,Montana,point,NA,81.93305546045303
+2020-07-05,10 day ahead cum death,2020-07-15,30,Montana,point,NA,82.09957501292229
+2020-07-05,11 day ahead cum death,2020-07-16,30,Montana,point,NA,82.62588080763817
+2020-07-05,12 day ahead cum death,2020-07-17,30,Montana,point,NA,84.85036391019821
+2020-07-05,13 day ahead cum death,2020-07-18,30,Montana,point,NA,84.94239056110382
+2020-07-05,14 day ahead cum death,2020-07-19,30,Montana,point,NA,85.27281552553177
+2020-07-05,1 day ahead cum death,2020-07-06,31,Nebraska,point,NA,357.8331341445446
+2020-07-05,2 day ahead cum death,2020-07-07,31,Nebraska,point,NA,364.67083126306534
+2020-07-05,3 day ahead cum death,2020-07-08,31,Nebraska,point,NA,365.55972769856453
+2020-07-05,4 day ahead cum death,2020-07-09,31,Nebraska,point,NA,369.20482394099236
+2020-07-05,5 day ahead cum death,2020-07-10,31,Nebraska,point,NA,370.801572740078
+2020-07-05,6 day ahead cum death,2020-07-11,31,Nebraska,point,NA,372.41968965530396
+2020-07-05,7 day ahead cum death,2020-07-12,31,Nebraska,point,NA,372.41124856472015
+2020-07-05,8 day ahead cum death,2020-07-13,31,Nebraska,point,NA,383.37101578712463
+2020-07-05,9 day ahead cum death,2020-07-14,31,Nebraska,point,NA,388.5217014551163
+2020-07-05,10 day ahead cum death,2020-07-15,31,Nebraska,point,NA,388.5257614850998
+2020-07-05,11 day ahead cum death,2020-07-16,31,Nebraska,point,NA,394.69188380241394
+2020-07-05,12 day ahead cum death,2020-07-17,31,Nebraska,point,NA,394.57968071103096
+2020-07-05,13 day ahead cum death,2020-07-18,31,Nebraska,point,NA,395.3929864168167
+2020-07-05,14 day ahead cum death,2020-07-19,31,Nebraska,point,NA,395.78258818387985
+2020-07-05,1 day ahead cum death,2020-07-06,32,Nevada,point,NA,538.2449799180031
+2020-07-05,2 day ahead cum death,2020-07-07,32,Nevada,point,NA,541.7735004425049
+2020-07-05,3 day ahead cum death,2020-07-08,32,Nevada,point,NA,550.2955021560192
+2020-07-05,4 day ahead cum death,2020-07-09,32,Nevada,point,NA,571.4920862019062
+2020-07-05,5 day ahead cum death,2020-07-10,32,Nevada,point,NA,574.5687448382378
+2020-07-05,6 day ahead cum death,2020-07-11,32,Nevada,point,NA,583.1653220653534
+2020-07-05,7 day ahead cum death,2020-07-12,32,Nevada,point,NA,588.501170873642
+2020-07-05,8 day ahead cum death,2020-07-13,32,Nevada,point,NA,583.2800055444241
+2020-07-05,9 day ahead cum death,2020-07-14,32,Nevada,point,NA,589.6461588442326
+2020-07-05,10 day ahead cum death,2020-07-15,32,Nevada,point,NA,620.1103849709034
+2020-07-05,11 day ahead cum death,2020-07-16,32,Nevada,point,NA,652.0844543278217
+2020-07-05,12 day ahead cum death,2020-07-17,32,Nevada,point,NA,654.5005661845207
+2020-07-05,13 day ahead cum death,2020-07-18,32,Nevada,point,NA,657.293896317482
+2020-07-05,14 day ahead cum death,2020-07-19,32,Nevada,point,NA,672.8608785271645
+2020-07-05,1 day ahead cum death,2020-07-06,33,New Hampshire,point,NA,384.7500021457672
+2020-07-05,2 day ahead cum death,2020-07-07,33,New Hampshire,point,NA,388.89049500226974
+2020-07-05,3 day ahead cum death,2020-07-08,33,New Hampshire,point,NA,390.25083792209625
+2020-07-05,4 day ahead cum death,2020-07-09,33,New Hampshire,point,NA,390.58822828531265
+2020-07-05,5 day ahead cum death,2020-07-10,33,New Hampshire,point,NA,392.16080343723297
+2020-07-05,6 day ahead cum death,2020-07-11,33,New Hampshire,point,NA,393.5583814382553
+2020-07-05,7 day ahead cum death,2020-07-12,33,New Hampshire,point,NA,395.650413274765
+2020-07-05,8 day ahead cum death,2020-07-13,33,New Hampshire,point,NA,397.60731357336044
+2020-07-05,9 day ahead cum death,2020-07-14,33,New Hampshire,point,NA,400.77370297908783
+2020-07-05,10 day ahead cum death,2020-07-15,33,New Hampshire,point,NA,402.4561032652855
+2020-07-05,11 day ahead cum death,2020-07-16,33,New Hampshire,point,NA,402.56248050928116
+2020-07-05,12 day ahead cum death,2020-07-17,33,New Hampshire,point,NA,403.8290331363678
+2020-07-05,13 day ahead cum death,2020-07-18,33,New Hampshire,point,NA,405.3702766895294
+2020-07-05,14 day ahead cum death,2020-07-19,33,New Hampshire,point,NA,407.6158284544945
+2020-07-05,1 day ahead cum death,2020-07-06,34,New Jersey,point,NA,15295.374138116837
+2020-07-05,2 day ahead cum death,2020-07-07,34,New Jersey,point,NA,15319.232811927795
+2020-07-05,3 day ahead cum death,2020-07-08,34,New Jersey,point,NA,15351.921583890915
+2020-07-05,4 day ahead cum death,2020-07-09,34,New Jersey,point,NA,16191.868427038193
+2020-07-05,5 day ahead cum death,2020-07-10,34,New Jersey,point,NA,16244.46073627472
+2020-07-05,6 day ahead cum death,2020-07-11,34,New Jersey,point,NA,16191.785665988922
+2020-07-05,7 day ahead cum death,2020-07-12,34,New Jersey,point,NA,16247.144022107124
+2020-07-05,8 day ahead cum death,2020-07-13,34,New Jersey,point,NA,16315.315327048302
+2020-07-05,9 day ahead cum death,2020-07-14,34,New Jersey,point,NA,16340.768318414688
+2020-07-05,10 day ahead cum death,2020-07-15,34,New Jersey,point,NA,16374.312573432922
+2020-07-05,11 day ahead cum death,2020-07-16,34,New Jersey,point,NA,16743.138471245766
+2020-07-05,12 day ahead cum death,2020-07-17,34,New Jersey,point,NA,16812.650011062622
+2020-07-05,13 day ahead cum death,2020-07-18,34,New Jersey,point,NA,16789.73223567009
+2020-07-05,14 day ahead cum death,2020-07-19,34,New Jersey,point,NA,16827.218438863754
+2020-07-05,1 day ahead cum death,2020-07-06,35,New Mexico,point,NA,532.8871296942234
+2020-07-05,2 day ahead cum death,2020-07-07,35,New Mexico,point,NA,536.455594420433
+2020-07-05,3 day ahead cum death,2020-07-08,35,New Mexico,point,NA,539.1417892873287
+2020-07-05,4 day ahead cum death,2020-07-09,35,New Mexico,point,NA,543.9200264811516
+2020-07-05,5 day ahead cum death,2020-07-10,35,New Mexico,point,NA,551.4321510791779
+2020-07-05,6 day ahead cum death,2020-07-11,35,New Mexico,point,NA,552.3316287100315
+2020-07-05,7 day ahead cum death,2020-07-12,35,New Mexico,point,NA,549.6836983263493
+2020-07-05,8 day ahead cum death,2020-07-13,35,New Mexico,point,NA,557.8093687295914
+2020-07-05,9 day ahead cum death,2020-07-14,35,New Mexico,point,NA,563.0750979781151
+2020-07-05,10 day ahead cum death,2020-07-15,35,New Mexico,point,NA,566.0504507422447
+2020-07-05,11 day ahead cum death,2020-07-16,35,New Mexico,point,NA,573.2367762625217
+2020-07-05,12 day ahead cum death,2020-07-17,35,New Mexico,point,NA,581.1118632256985
+2020-07-05,13 day ahead cum death,2020-07-18,35,New Mexico,point,NA,582.2846018970013
+2020-07-05,14 day ahead cum death,2020-07-19,35,New Mexico,point,NA,583.0324938297272
+2020-07-05,1 day ahead cum death,2020-07-06,36,New York,point,NA,32218.982908129692
+2020-07-05,2 day ahead cum death,2020-07-07,36,New York,point,NA,32285.519476026297
+2020-07-05,3 day ahead cum death,2020-07-08,36,New York,point,NA,32280.524198532104
+2020-07-05,4 day ahead cum death,2020-07-09,36,New York,point,NA,32300.126052230597
+2020-07-05,5 day ahead cum death,2020-07-10,36,New York,point,NA,32366.591362714767
+2020-07-05,6 day ahead cum death,2020-07-11,36,New York,point,NA,32374.45743778348
+2020-07-05,7 day ahead cum death,2020-07-12,36,New York,point,NA,32414.219196796417
+2020-07-05,8 day ahead cum death,2020-07-13,36,New York,point,NA,32414.228410482407
+2020-07-05,9 day ahead cum death,2020-07-14,36,New York,point,NA,32465.924474209547
+2020-07-05,10 day ahead cum death,2020-07-15,36,New York,point,NA,32463.093431085348
+2020-07-05,11 day ahead cum death,2020-07-16,36,New York,point,NA,32489.64189964533
+2020-07-05,12 day ahead cum death,2020-07-17,36,New York,point,NA,32559.538934379816
+2020-07-05,13 day ahead cum death,2020-07-18,36,New York,point,NA,32561.964758485556
+2020-07-05,14 day ahead cum death,2020-07-19,36,New York,point,NA,32599.32750993967
+2020-07-05,1 day ahead cum death,2020-07-06,37,North Carolina,point,NA,1485.926043510437
+2020-07-05,2 day ahead cum death,2020-07-07,37,North Carolina,point,NA,1506.0419169068336
+2020-07-05,3 day ahead cum death,2020-07-08,37,North Carolina,point,NA,1526.795096307993
+2020-07-05,4 day ahead cum death,2020-07-09,37,North Carolina,point,NA,1538.0229445695877
+2020-07-05,5 day ahead cum death,2020-07-10,37,North Carolina,point,NA,1547.5927230417728
+2020-07-05,6 day ahead cum death,2020-07-11,37,North Carolina,point,NA,1536.445618957281
+2020-07-05,7 day ahead cum death,2020-07-12,37,North Carolina,point,NA,1537.2804826498032
+2020-07-05,8 day ahead cum death,2020-07-13,37,North Carolina,point,NA,1585.647630006075
+2020-07-05,9 day ahead cum death,2020-07-14,37,North Carolina,point,NA,1608.155223608017
+2020-07-05,10 day ahead cum death,2020-07-15,37,North Carolina,point,NA,1637.7059386968613
+2020-07-05,11 day ahead cum death,2020-07-16,37,North Carolina,point,NA,1649.4543778896332
+2020-07-05,12 day ahead cum death,2020-07-17,37,North Carolina,point,NA,1711.1235974133015
+2020-07-05,13 day ahead cum death,2020-07-18,37,North Carolina,point,NA,1695.9904451668262
+2020-07-05,14 day ahead cum death,2020-07-19,37,North Carolina,point,NA,1692.613461792469
+2020-07-05,1 day ahead cum death,2020-07-06,38,North Dakota,point,NA,130.46147102117538
+2020-07-05,2 day ahead cum death,2020-07-07,38,North Dakota,point,NA,130.49301341176033
+2020-07-05,3 day ahead cum death,2020-07-08,38,North Dakota,point,NA,131.48102644085884
+2020-07-05,4 day ahead cum death,2020-07-09,38,North Dakota,point,NA,131.39862671494484
+2020-07-05,5 day ahead cum death,2020-07-10,38,North Dakota,point,NA,131.24097082018852
+2020-07-05,6 day ahead cum death,2020-07-11,38,North Dakota,point,NA,131.3161794245243
+2020-07-05,7 day ahead cum death,2020-07-12,38,North Dakota,point,NA,131.44079038500786
+2020-07-05,8 day ahead cum death,2020-07-13,38,North Dakota,point,NA,138.00003251433372
+2020-07-05,9 day ahead cum death,2020-07-14,38,North Dakota,point,NA,138.50941318273544
+2020-07-05,10 day ahead cum death,2020-07-15,38,North Dakota,point,NA,140.16814851760864
+2020-07-05,11 day ahead cum death,2020-07-16,38,North Dakota,point,NA,140.20120882987976
+2020-07-05,12 day ahead cum death,2020-07-17,38,North Dakota,point,NA,140.12873002886772
+2020-07-05,13 day ahead cum death,2020-07-18,38,North Dakota,point,NA,140.8282169699669
+2020-07-05,14 day ahead cum death,2020-07-19,38,North Dakota,point,NA,140.9744066298008
+2020-07-05,1 day ahead cum death,2020-07-06,39,Ohio,point,NA,2934.259501874447
+2020-07-05,2 day ahead cum death,2020-07-07,39,Ohio,point,NA,2982.141886949539
+2020-07-05,3 day ahead cum death,2020-07-08,39,Ohio,point,NA,2998.28035441041
+2020-07-05,4 day ahead cum death,2020-07-09,39,Ohio,point,NA,2989.6806688010693
+2020-07-05,5 day ahead cum death,2020-07-10,39,Ohio,point,NA,3021.8474871516228
+2020-07-05,6 day ahead cum death,2020-07-11,39,Ohio,point,NA,3020.5391604602337
+2020-07-05,7 day ahead cum death,2020-07-12,39,Ohio,point,NA,3024.876344501972
+2020-07-05,8 day ahead cum death,2020-07-13,39,Ohio,point,NA,3039.0676484405994
+2020-07-05,9 day ahead cum death,2020-07-14,39,Ohio,point,NA,3088.710491269827
+2020-07-05,10 day ahead cum death,2020-07-15,39,Ohio,point,NA,3112.0179929435253
+2020-07-05,11 day ahead cum death,2020-07-16,39,Ohio,point,NA,3102.443748086691
+2020-07-05,12 day ahead cum death,2020-07-17,39,Ohio,point,NA,3130.546029061079
+2020-07-05,13 day ahead cum death,2020-07-18,39,Ohio,point,NA,3127.691080778837
+2020-07-05,14 day ahead cum death,2020-07-19,39,Ohio,point,NA,3136.9654220342636
+2020-07-05,1 day ahead cum death,2020-07-06,40,Oklahoma,point,NA,440.02381259202957
+2020-07-05,2 day ahead cum death,2020-07-07,40,Oklahoma,point,NA,442.23993346095085
+2020-07-05,3 day ahead cum death,2020-07-08,40,Oklahoma,point,NA,444.9757749438286
+2020-07-05,4 day ahead cum death,2020-07-09,40,Oklahoma,point,NA,451.5472759604454
+2020-07-05,5 day ahead cum death,2020-07-10,40,Oklahoma,point,NA,454.52010425925255
+2020-07-05,6 day ahead cum death,2020-07-11,40,Oklahoma,point,NA,455.11856657266617
+2020-07-05,7 day ahead cum death,2020-07-12,40,Oklahoma,point,NA,455.0191326737404
+2020-07-05,8 day ahead cum death,2020-07-13,40,Oklahoma,point,NA,468.5661369264126
+2020-07-05,9 day ahead cum death,2020-07-14,40,Oklahoma,point,NA,472.44781652092934
+2020-07-05,10 day ahead cum death,2020-07-15,40,Oklahoma,point,NA,476.41380736231804
+2020-07-05,11 day ahead cum death,2020-07-16,40,Oklahoma,point,NA,483.3983653187752
+2020-07-05,12 day ahead cum death,2020-07-17,40,Oklahoma,point,NA,486.8393230140209
+2020-07-05,13 day ahead cum death,2020-07-18,40,Oklahoma,point,NA,488.22617995738983
+2020-07-05,14 day ahead cum death,2020-07-19,40,Oklahoma,point,NA,487.69809567928314
+2020-07-05,1 day ahead cum death,2020-07-06,41,Oregon,point,NA,242.40547412633896
+2020-07-05,2 day ahead cum death,2020-07-07,41,Oregon,point,NA,246.5694004893303
+2020-07-05,3 day ahead cum death,2020-07-08,41,Oregon,point,NA,248.17008832097054
+2020-07-05,4 day ahead cum death,2020-07-09,41,Oregon,point,NA,249.18743306398392
+2020-07-05,5 day ahead cum death,2020-07-10,41,Oregon,point,NA,249.52884861826897
+2020-07-05,6 day ahead cum death,2020-07-11,41,Oregon,point,NA,254.0630320608616
+2020-07-05,7 day ahead cum death,2020-07-12,41,Oregon,point,NA,256.6162539720535
+2020-07-05,8 day ahead cum death,2020-07-13,41,Oregon,point,NA,262.47433176636696
+2020-07-05,9 day ahead cum death,2020-07-14,41,Oregon,point,NA,267.7072626054287
+2020-07-05,10 day ahead cum death,2020-07-15,41,Oregon,point,NA,270.7454434335232
+2020-07-05,11 day ahead cum death,2020-07-16,41,Oregon,point,NA,271.8477935194969
+2020-07-05,12 day ahead cum death,2020-07-17,41,Oregon,point,NA,270.7927975654602
+2020-07-05,13 day ahead cum death,2020-07-18,41,Oregon,point,NA,275.35320645570755
+2020-07-05,14 day ahead cum death,2020-07-19,41,Oregon,point,NA,279.62623155117035
+2020-07-05,1 day ahead cum death,2020-07-06,42,Pennsylvania,point,NA,6777.849982619286
+2020-07-05,2 day ahead cum death,2020-07-07,42,Pennsylvania,point,NA,6808.559277236462
+2020-07-05,3 day ahead cum death,2020-07-08,42,Pennsylvania,point,NA,6838.866628617048
+2020-07-05,4 day ahead cum death,2020-07-09,42,Pennsylvania,point,NA,6864.975411236286
+2020-07-05,5 day ahead cum death,2020-07-10,42,Pennsylvania,point,NA,6899.3648762106895
+2020-07-05,6 day ahead cum death,2020-07-11,42,Pennsylvania,point,NA,6895.814610958099
+2020-07-05,7 day ahead cum death,2020-07-12,42,Pennsylvania,point,NA,6900.038689255714
+2020-07-05,8 day ahead cum death,2020-07-13,42,Pennsylvania,point,NA,6914.824871987104
+2020-07-05,9 day ahead cum death,2020-07-14,42,Pennsylvania,point,NA,6947.300454497337
+2020-07-05,10 day ahead cum death,2020-07-15,42,Pennsylvania,point,NA,6970.583940654993
+2020-07-05,11 day ahead cum death,2020-07-16,42,Pennsylvania,point,NA,6999.01005679369
+2020-07-05,12 day ahead cum death,2020-07-17,42,Pennsylvania,point,NA,7038.539789557457
+2020-07-05,13 day ahead cum death,2020-07-18,42,Pennsylvania,point,NA,7033.995704442263
+2020-07-05,14 day ahead cum death,2020-07-19,42,Pennsylvania,point,NA,7039.455824881792
+2020-07-05,1 day ahead cum death,2020-07-06,44,Rhode Island,point,NA,9.138858079910278
+2020-07-05,2 day ahead cum death,2020-07-07,44,Rhode Island,point,NA,9.138858079910278
+2020-07-05,3 day ahead cum death,2020-07-08,44,Rhode Island,point,NA,9.138858079910278
+2020-07-05,4 day ahead cum death,2020-07-09,44,Rhode Island,point,NA,9.138858079910278
+2020-07-05,5 day ahead cum death,2020-07-10,44,Rhode Island,point,NA,9.630608081817627
+2020-07-05,6 day ahead cum death,2020-07-11,44,Rhode Island,point,NA,9.630608081817627
+2020-07-05,7 day ahead cum death,2020-07-12,44,Rhode Island,point,NA,9.630608081817627
+2020-07-05,8 day ahead cum death,2020-07-13,44,Rhode Island,point,NA,12.890583872795105
+2020-07-05,9 day ahead cum death,2020-07-14,44,Rhode Island,point,NA,12.890583872795105
+2020-07-05,10 day ahead cum death,2020-07-15,44,Rhode Island,point,NA,12.890583872795105
+2020-07-05,11 day ahead cum death,2020-07-16,44,Rhode Island,point,NA,12.890583872795105
+2020-07-05,12 day ahead cum death,2020-07-17,44,Rhode Island,point,NA,22.31262904405594
+2020-07-05,13 day ahead cum death,2020-07-18,44,Rhode Island,point,NA,22.31262904405594
+2020-07-05,14 day ahead cum death,2020-07-19,44,Rhode Island,point,NA,22.31262904405594
+2020-07-05,1 day ahead cum death,2020-07-06,45,South Carolina,point,NA,790.0544045269489
+2020-07-05,2 day ahead cum death,2020-07-07,45,South Carolina,point,NA,811.5518969893456
+2020-07-05,3 day ahead cum death,2020-07-08,45,South Carolina,point,NA,847.3499629795551
+2020-07-05,4 day ahead cum death,2020-07-09,45,South Carolina,point,NA,869.4932031035423
+2020-07-05,5 day ahead cum death,2020-07-10,45,South Carolina,point,NA,879.8529679477215
+2020-07-05,6 day ahead cum death,2020-07-11,45,South Carolina,point,NA,905.8260544240475
+2020-07-05,7 day ahead cum death,2020-07-12,45,South Carolina,point,NA,915.0276453495026
+2020-07-05,8 day ahead cum death,2020-07-13,45,South Carolina,point,NA,884.6721166968346
+2020-07-05,9 day ahead cum death,2020-07-14,45,South Carolina,point,NA,910.7956344485283
+2020-07-05,10 day ahead cum death,2020-07-15,45,South Carolina,point,NA,954.2973771691322
+2020-07-05,11 day ahead cum death,2020-07-16,45,South Carolina,point,NA,977.0148540437222
+2020-07-05,12 day ahead cum death,2020-07-17,45,South Carolina,point,NA,997.6777653098106
+2020-07-05,13 day ahead cum death,2020-07-18,45,South Carolina,point,NA,1029.1560151278973
+2020-07-05,14 day ahead cum death,2020-07-19,45,South Carolina,point,NA,1041.596987068653
+2020-07-05,1 day ahead cum death,2020-07-06,46,South Dakota,point,NA,155.44082781672478
+2020-07-05,2 day ahead cum death,2020-07-07,46,South Dakota,point,NA,154.9257221519947
+2020-07-05,3 day ahead cum death,2020-07-08,46,South Dakota,point,NA,156.8657717704773
+2020-07-05,4 day ahead cum death,2020-07-09,46,South Dakota,point,NA,159.797964066267
+2020-07-05,5 day ahead cum death,2020-07-10,46,South Dakota,point,NA,159.34150248765945
+2020-07-05,6 day ahead cum death,2020-07-11,46,South Dakota,point,NA,159.45653036236763
+2020-07-05,7 day ahead cum death,2020-07-12,46,South Dakota,point,NA,159.14347112178802
+2020-07-05,8 day ahead cum death,2020-07-13,46,South Dakota,point,NA,166.71040639281273
+2020-07-05,9 day ahead cum death,2020-07-14,46,South Dakota,point,NA,166.03663975000381
+2020-07-05,10 day ahead cum death,2020-07-15,46,South Dakota,point,NA,168.07112604379654
+2020-07-05,11 day ahead cum death,2020-07-16,46,South Dakota,point,NA,171.3713472187519
+2020-07-05,12 day ahead cum death,2020-07-17,46,South Dakota,point,NA,171.35272926092148
+2020-07-05,13 day ahead cum death,2020-07-18,46,South Dakota,point,NA,171.73473021388054
+2020-07-05,14 day ahead cum death,2020-07-19,46,South Dakota,point,NA,171.3190973997116
+2020-07-05,1 day ahead cum death,2020-07-06,47,Tennessee,point,NA,692.57496920228
+2020-07-05,2 day ahead cum death,2020-07-07,47,Tennessee,point,NA,706.122775375843
+2020-07-05,3 day ahead cum death,2020-07-08,47,Tennessee,point,NA,709.4623284339905
+2020-07-05,4 day ahead cum death,2020-07-09,47,Tennessee,point,NA,721.0522049069405
+2020-07-05,5 day ahead cum death,2020-07-10,47,Tennessee,point,NA,737.486850976944
+2020-07-05,6 day ahead cum death,2020-07-11,47,Tennessee,point,NA,741.9403305947781
+2020-07-05,7 day ahead cum death,2020-07-12,47,Tennessee,point,NA,749.5550655424595
+2020-07-05,8 day ahead cum death,2020-07-13,47,Tennessee,point,NA,767.7545612752438
+2020-07-05,9 day ahead cum death,2020-07-14,47,Tennessee,point,NA,788.1201362013817
+2020-07-05,10 day ahead cum death,2020-07-15,47,Tennessee,point,NA,790.7095345556736
+2020-07-05,11 day ahead cum death,2020-07-16,47,Tennessee,point,NA,808.2695037424564
+2020-07-05,12 day ahead cum death,2020-07-17,47,Tennessee,point,NA,829.2292987406254
+2020-07-05,13 day ahead cum death,2020-07-18,47,Tennessee,point,NA,838.5540238320827
+2020-07-05,14 day ahead cum death,2020-07-19,47,Tennessee,point,NA,858.3545341491699
+2020-07-05,1 day ahead cum death,2020-07-06,48,Texas,point,NA,3181.1604092419147
+2020-07-05,2 day ahead cum death,2020-07-07,48,Texas,point,NA,3244.9366532862186
+2020-07-05,3 day ahead cum death,2020-07-08,48,Texas,point,NA,3317.911205112934
+2020-07-05,4 day ahead cum death,2020-07-09,48,Texas,point,NA,3397.1131081581116
+2020-07-05,5 day ahead cum death,2020-07-10,48,Texas,point,NA,3490.444978505373
+2020-07-05,6 day ahead cum death,2020-07-11,48,Texas,point,NA,3552.011131376028
+2020-07-05,7 day ahead cum death,2020-07-12,48,Texas,point,NA,3605.8665366470814
+2020-07-05,8 day ahead cum death,2020-07-13,48,Texas,point,NA,3731.740929931402
+2020-07-05,9 day ahead cum death,2020-07-14,48,Texas,point,NA,3837.6289207935333
+2020-07-05,10 day ahead cum death,2020-07-15,48,Texas,point,NA,3928.3575343191624
+2020-07-05,11 day ahead cum death,2020-07-16,48,Texas,point,NA,4044.5371636748314
+2020-07-05,12 day ahead cum death,2020-07-17,48,Texas,point,NA,4161.796339005232
+2020-07-05,13 day ahead cum death,2020-07-18,48,Texas,point,NA,4249.67435285449
+2020-07-05,14 day ahead cum death,2020-07-19,48,Texas,point,NA,4301.084181725979
+2020-07-05,1 day ahead cum death,2020-07-06,49,Utah,point,NA,185.56993901729584
+2020-07-05,2 day ahead cum death,2020-07-07,49,Utah,point,NA,187.91962039470673
+2020-07-05,3 day ahead cum death,2020-07-08,49,Utah,point,NA,186.7959622144699
+2020-07-05,4 day ahead cum death,2020-07-09,49,Utah,point,NA,189.85661113262177
+2020-07-05,5 day ahead cum death,2020-07-10,49,Utah,point,NA,194.37672117352486
+2020-07-05,6 day ahead cum death,2020-07-11,49,Utah,point,NA,194.4180121421814
+2020-07-05,7 day ahead cum death,2020-07-12,49,Utah,point,NA,198.3203548192978
+2020-07-05,8 day ahead cum death,2020-07-13,49,Utah,point,NA,208.9154694378376
+2020-07-05,9 day ahead cum death,2020-07-14,49,Utah,point,NA,211.77765855193138
+2020-07-05,10 day ahead cum death,2020-07-15,49,Utah,point,NA,212.1488079726696
+2020-07-05,11 day ahead cum death,2020-07-16,49,Utah,point,NA,213.03602626919746
+2020-07-05,12 day ahead cum death,2020-07-17,49,Utah,point,NA,217.71682700514793
+2020-07-05,13 day ahead cum death,2020-07-18,49,Utah,point,NA,217.8246792256832
+2020-07-05,14 day ahead cum death,2020-07-19,49,Utah,point,NA,223.07938992977142
+2020-07-05,1 day ahead cum death,2020-07-06,50,Vermont,point,NA,62.88671764731407
+2020-07-05,2 day ahead cum death,2020-07-07,50,Vermont,point,NA,62.861647218465805
+2020-07-05,3 day ahead cum death,2020-07-08,50,Vermont,point,NA,62.85876500606537
+2020-07-05,4 day ahead cum death,2020-07-09,50,Vermont,point,NA,62.734549045562744
+2020-07-05,5 day ahead cum death,2020-07-10,50,Vermont,point,NA,62.734549045562744
+2020-07-05,6 day ahead cum death,2020-07-11,50,Vermont,point,NA,62.734549045562744
+2020-07-05,7 day ahead cum death,2020-07-12,50,Vermont,point,NA,62.70029976963997
+2020-07-05,8 day ahead cum death,2020-07-13,50,Vermont,point,NA,64.58701741695404
+2020-07-05,9 day ahead cum death,2020-07-14,50,Vermont,point,NA,64.56194698810577
+2020-07-05,10 day ahead cum death,2020-07-15,50,Vermont,point,NA,64.49503859877586
+2020-07-05,11 day ahead cum death,2020-07-16,50,Vermont,point,NA,64.41246762871742
+2020-07-05,12 day ahead cum death,2020-07-17,50,Vermont,point,NA,64.44671687483788
+2020-07-05,13 day ahead cum death,2020-07-18,50,Vermont,point,NA,64.43753805756569
+2020-07-05,14 day ahead cum death,2020-07-19,50,Vermont,point,NA,64.35538545250893
+2020-07-05,1 day ahead cum death,2020-07-06,51,Virginia,point,NA,1872.7574745118618
+2020-07-05,2 day ahead cum death,2020-07-07,51,Virginia,point,NA,1896.1794806718826
+2020-07-05,3 day ahead cum death,2020-07-08,51,Virginia,point,NA,1922.5791755318642
+2020-07-05,4 day ahead cum death,2020-07-09,51,Virginia,point,NA,1956.7841702103615
+2020-07-05,5 day ahead cum death,2020-07-10,51,Virginia,point,NA,1986.0687137842178
+2020-07-05,6 day ahead cum death,2020-07-11,51,Virginia,point,NA,1988.7347393035889
+2020-07-05,7 day ahead cum death,2020-07-12,51,Virginia,point,NA,1996.7415505349636
+2020-07-05,8 day ahead cum death,2020-07-13,51,Virginia,point,NA,1975.7468361258507
+2020-07-05,9 day ahead cum death,2020-07-14,51,Virginia,point,NA,2000.0613539516926
+2020-07-05,10 day ahead cum death,2020-07-15,51,Virginia,point,NA,2030.7236158549786
+2020-07-05,11 day ahead cum death,2020-07-16,51,Virginia,point,NA,2068.005367964506
+2020-07-05,12 day ahead cum death,2020-07-17,51,Virginia,point,NA,2101.1528773605824
+2020-07-05,13 day ahead cum death,2020-07-18,51,Virginia,point,NA,2098.9693832695484
+2020-07-05,14 day ahead cum death,2020-07-19,51,Virginia,point,NA,2105.446244508028
+2020-07-05,1 day ahead cum death,2020-07-06,53,Washington,point,NA,1384.4051892459393
+2020-07-05,2 day ahead cum death,2020-07-07,53,Washington,point,NA,1396.8125407993793
+2020-07-05,3 day ahead cum death,2020-07-08,53,Washington,point,NA,1407.5123013854027
+2020-07-05,4 day ahead cum death,2020-07-09,53,Washington,point,NA,1410.263587474823
+2020-07-05,5 day ahead cum death,2020-07-10,53,Washington,point,NA,1421.047098338604
+2020-07-05,6 day ahead cum death,2020-07-11,53,Washington,point,NA,1422.4297887682915
+2020-07-05,7 day ahead cum death,2020-07-12,53,Washington,point,NA,1430.0489569306374
+2020-07-05,8 day ahead cum death,2020-07-13,53,Washington,point,NA,1439.5174011588097
+2020-07-05,9 day ahead cum death,2020-07-14,53,Washington,point,NA,1454.8648625314236
+2020-07-05,10 day ahead cum death,2020-07-15,53,Washington,point,NA,1467.9120795428753
+2020-07-05,11 day ahead cum death,2020-07-16,53,Washington,point,NA,1471.4726884365082
+2020-07-05,12 day ahead cum death,2020-07-17,53,Washington,point,NA,1482.6329783201218
+2020-07-05,13 day ahead cum death,2020-07-18,53,Washington,point,NA,1483.3717635273933
+2020-07-05,14 day ahead cum death,2020-07-19,53,Washington,point,NA,1496.2239885926247
+2020-07-05,1 day ahead cum death,2020-07-06,54,West Virginia,point,NA,132.5642471909523
+2020-07-05,2 day ahead cum death,2020-07-07,54,West Virginia,point,NA,132.93717089295387
+2020-07-05,3 day ahead cum death,2020-07-08,54,West Virginia,point,NA,133.09523257613182
+2020-07-05,4 day ahead cum death,2020-07-09,54,West Virginia,point,NA,133.03161725401878
+2020-07-05,5 day ahead cum death,2020-07-10,54,West Virginia,point,NA,133.03830713033676
+2020-07-05,6 day ahead cum death,2020-07-11,54,West Virginia,point,NA,134.23644503951073
+2020-07-05,7 day ahead cum death,2020-07-12,54,West Virginia,point,NA,134.2809756398201
+2020-07-05,8 day ahead cum death,2020-07-13,54,West Virginia,point,NA,141.13467559218407
+2020-07-05,9 day ahead cum death,2020-07-14,54,West Virginia,point,NA,141.40002450346947
+2020-07-05,10 day ahead cum death,2020-07-15,54,West Virginia,point,NA,141.98491314053535
+2020-07-05,11 day ahead cum death,2020-07-16,54,West Virginia,point,NA,141.8614266216755
+2020-07-05,12 day ahead cum death,2020-07-17,54,West Virginia,point,NA,141.9411529302597
+2020-07-05,13 day ahead cum death,2020-07-18,54,West Virginia,point,NA,143.43906497955322
+2020-07-05,14 day ahead cum death,2020-07-19,54,West Virginia,point,NA,143.78737923502922
+2020-07-05,1 day ahead cum death,2020-07-06,55,Wisconsin,point,NA,846.6664301753044
+2020-07-05,2 day ahead cum death,2020-07-07,55,Wisconsin,point,NA,851.1820100545883
+2020-07-05,3 day ahead cum death,2020-07-08,55,Wisconsin,point,NA,851.1852656900883
+2020-07-05,4 day ahead cum death,2020-07-09,55,Wisconsin,point,NA,858.6457754075527
+2020-07-05,5 day ahead cum death,2020-07-10,55,Wisconsin,point,NA,862.1481383442879
+2020-07-05,6 day ahead cum death,2020-07-11,55,Wisconsin,point,NA,860.2116317749023
+2020-07-05,7 day ahead cum death,2020-07-12,55,Wisconsin,point,NA,860.4093169569969
+2020-07-05,8 day ahead cum death,2020-07-13,55,Wisconsin,point,NA,883.5971268117428
+2020-07-05,9 day ahead cum death,2020-07-14,55,Wisconsin,point,NA,889.3323501944542
+2020-07-05,10 day ahead cum death,2020-07-15,55,Wisconsin,point,NA,891.3183805346489
+2020-07-05,11 day ahead cum death,2020-07-16,55,Wisconsin,point,NA,896.9773985147476
+2020-07-05,12 day ahead cum death,2020-07-17,55,Wisconsin,point,NA,903.4315856397152
+2020-07-05,13 day ahead cum death,2020-07-18,55,Wisconsin,point,NA,900.3460576832294
+2020-07-05,14 day ahead cum death,2020-07-19,55,Wisconsin,point,NA,900.5719500184059
+2020-07-05,1 day ahead cum death,2020-07-06,56,Wyoming,point,NA,26.571773290634155
+2020-07-05,2 day ahead cum death,2020-07-07,56,Wyoming,point,NA,26.60364019870758
+2020-07-05,3 day ahead cum death,2020-07-08,56,Wyoming,point,NA,26.664333194494247
+2020-07-05,4 day ahead cum death,2020-07-09,56,Wyoming,point,NA,26.739634722471237
+2020-07-05,5 day ahead cum death,2020-07-10,56,Wyoming,point,NA,26.775008529424667
+2020-07-05,6 day ahead cum death,2020-07-11,56,Wyoming,point,NA,26.89094015955925
+2020-07-05,7 day ahead cum death,2020-07-12,56,Wyoming,point,NA,26.986332952976227
+2020-07-05,8 day ahead cum death,2020-07-13,56,Wyoming,point,NA,30.730255275964737
+2020-07-05,9 day ahead cum death,2020-07-14,56,Wyoming,point,NA,30.743286699056625
+2020-07-05,10 day ahead cum death,2020-07-15,56,Wyoming,point,NA,30.878905206918716
+2020-07-05,11 day ahead cum death,2020-07-16,56,Wyoming,point,NA,30.943607211112976
+2020-07-05,12 day ahead cum death,2020-07-17,56,Wyoming,point,NA,31.055689811706543
+2020-07-05,13 day ahead cum death,2020-07-18,56,Wyoming,point,NA,31.213367998600006
+2020-07-05,14 day ahead cum death,2020-07-19,56,Wyoming,point,NA,31.5656116604805
