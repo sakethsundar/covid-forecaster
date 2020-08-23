@@ -1,4 +1,5 @@
 ,total_deaths_2020-05-10,predicted_deaths,actual_deaths,predicted_addl_deaths,actual_addl_deaths,error,perc_error
+MIT_Sak_State,82625,97085.5,100014,17559.5,17389,170.5,1.0%
 GT-DeepCOVID,82625,97274.0,100014,17748.0,17389,359.0,2.1%
 UCLA-SuEIR,82625,97354.8,100014,17828.8,17389,439.8,2.5%
 MOBS-GLEAM_COVID,82625,97512.8,100014,17986.8,17389,597.8,3.4%
