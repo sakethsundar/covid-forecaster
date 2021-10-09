@@ -1,6 +1,6 @@
 # MIT_Crit_Data-GBCF (also known as MIT-LCP)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## A Non-Mechanistic Approach to Real-Time Forecasting of US COVID-19 Mortality Using Machine Learning and Novel Digital Data
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ### About the model
