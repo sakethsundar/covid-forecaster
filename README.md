@@ -13,3 +13,7 @@ This model uses a gradient boosted regressor with hyperparameter optimization th
 |PlaceIQ|Exposure indices derived from PlaceIQ movement data|County Level|
 |US Dept of HHS|COVID-19 Hospital capacity and utilization from HHS|State Level|
 
+### Pipeline
+<img src="https://ibb.co/DKjpHM7"
+     alt="Pipeline"
+     style="float: left; margin-right: 10px;" />
