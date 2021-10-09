@@ -8,10 +8,10 @@ This model uses a gradient boosted regressor with hyperparameter optimization th
 ### Data Sources
 | Source      | Description | Scope |
 | ----------- | ----------- | ----- |
-| JHU CSSE |Daily US COVID-19 Deaths and Cases|County Level|
-|County-level Socioeconomic Dataset|300 variables that summarize population estimates, demographics, ethnicity, housing, education, employment and income, climate, transit scores, and healthcare system-related metrics|County Level|
-|PlaceIQ|Exposure indices derived from PlaceIQ movement data|County Level|
-|US Dept of HHS|COVID-19 Hospital capacity and utilization from HHS|State Level|
+|[JHU CSSE](https://github.com/CSSEGISandData/COVID-19)|Daily US COVID-19 Deaths and Cases|County Level|
+|[County-level Socioeconomic Dataset](https://github.com/JieYingWu/COVID-19_US_County-level_Summaries)|300 variables that summarize population estimates, demographics, ethnicity, housing, education, employment and income, climate, transit scores, and healthcare system-related metrics|County Level|
+|[PlaceIQ](https://github.com/COVIDExposureIndices/COVIDExposureIndices)|Exposure indices derived from PlaceIQ movement data|County Level|
+|[US Dept of HHS](https://protect-public.hhs.gov/pages/hospital-utilization)|COVID-19 Hospital capacity and utilization from HHS|State Level|
 
 ### Pipeline
 ![](https://cdn.discordapp.com/attachments/889317786059427894/896502334480326707/pipeline.JPG)
