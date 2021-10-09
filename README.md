@@ -9,7 +9,9 @@ This model uses a gradient boosted regressor with hyperparameter optimization th
 | Source      | Description | Scope |
 | ----------- | ----------- | ----- |
 | JHU CSSE |Daily US COVID-19 Deaths and Cases|County Level|
-|County-level Socioeconomic Dataset|300 variables that summarize population estimates, demographics, ethnicity, housing, education, employment and income, climate, transit scores, and healthcare system-related metrics|County Level|
-|COVID Tracking Project|Daily COVID-19 Tests|State Level|
-|COVID Tracking Project|Daily COVID-19 Tests|State Level|
-|COVID Tracking Project|Daily COVID-19 Tests|State Level|
+|County-level Socioeconomic Dataset|300 variables that summarize population estimates, demographics, ethnicity,
+housing, education, employment and income, climate, transit scores, 
+and healthcare system-related metrics|County Level|
+|PlaceIQ|Exposure indices derived from PlaceIQ movement data|County Level|
+|US Dept of HHS|COVID-19 Hospital capacity and utilization from HHS|State Level|
+
