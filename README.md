@@ -14,4 +14,4 @@ This model uses a gradient boosted regressor with hyperparameter optimization th
 |US Dept of HHS|COVID-19 Hospital capacity and utilization from HHS|State Level|
 
 ### Pipeline
-![] ("https://i.ibb.co/7y04dpG/pipeline.jpg")
+![] (https://i.ibb.co/7y04dpG/pipeline.jpg)
