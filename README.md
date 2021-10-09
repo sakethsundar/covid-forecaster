@@ -15,3 +15,6 @@ This model uses a gradient boosted regressor with hyperparameter optimization th
 
 ### Pipeline
 ![](https://cdn.discordapp.com/attachments/889317786059427894/896502334480326707/pipeline.JPG)
+
+### Technical Details
+The forecasting model was implemented using Python 3.6 in Jupyter notebooks. Python packages used include NumPy, Pandas, scikit-learn, and XGBoost.
